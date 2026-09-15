@@ -187,6 +187,10 @@ Elenchiamo alcuni fatti sulle funzioni convesse:
 
 ### 1.2 Trucco della tangente
 
+> ```math
+> \mu\left(\bigcup_{i\in I}U_i\right) = \sum_{i\in I}\mu(U_i)
+> ```
+
 <h1 style="text-align:center;"> ... <h1>
 <br/><br/>
 
