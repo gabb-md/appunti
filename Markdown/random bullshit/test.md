@@ -55,6 +55,7 @@ $$
 $$
 
 In definitiva:
+
 $$
 1< \zeta(2)<2
 $$
