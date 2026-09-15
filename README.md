@@ -59,12 +59,13 @@ Utilizzerò davvero poco gli elementi stilistici di HTML e CSS, per assicurare l
 
 # Quando usare questi appunti
 
-Confido nel tuo senso di responsabilità sperando che tu continuerai a prendere i tuoi appunti di tua sponde. Sconsiglio di affidarsi completamente ai miei appunti perché prenderne di propri in classe aiuta la comprensione dell'argomento, perché richiede comunque uno sforzo cognitivo schematizzare e scrivere ciò che si ritiene più importante. Va da sé che questi appunti non sono sostituibili ai libri di testo, soprattutto nel caso delle materie umanistiche, pertanto consiglio di utilizzarli come supporto al libro scolastico. Usa questi appunti solo se non hai potuto prenderne di tuoi oppure se ritieni che i tuoi siano incompleti. Continua comunque a prenderne di tuoi, migliora la tua tecnica, così non dovrai fare affidamento su nessuno. Ovviamente, ognuno studia e prende appunti allo stesso modo, se il mio metodo di studio non è conforme al tuo metodo di apprendimento non c'è motivo di ostinarsi a imparare con i miei appunti.
+Confido nel tuo senso di responsabilità sperando che continuerai a prendere i tuoi appunti di tua sponde. Sconsiglio di affidarsi completamente ai miei appunti perché prenderne di propri in classe aiuta la comprensione dell'argomento, perché richiede comunque uno sforzo cognitivo schematizzare e scrivere ciò che si ritiene più importante. Va da sé che questi appunti non sono sostituibili ai libri di testo, soprattutto nel caso delle materie umanistiche, pertanto consiglio di utilizzarli come supporto al libro scolastico. Usa questi appunti solo se non hai potuto prenderne di tuoi oppure se ritieni che i tuoi siano incompleti. Continua comunque a prenderne di tuoi, migliora la tua tecnica, così non dovrai fare affidamento su nessuno. Ovviamente, ognuno studia e prende appunti a modo proprio. Se il mio metodo di studio non è conforme al tuo metodo di apprendimento, non c'è motivo di ostinarsi a imparare con i miei appunti.
 
 <br/>
 
 > ***IMPORTANTE:***
-> se dovessi avere delle perplessità, proposte, suggerimenti, o correzioni, contattami privatamente oppure apri un nuovo *issue* nella sezione *Issues*.
+> 
+> Se dovessi avere delle perplessità, proposte, suggerimenti, o correzioni, contattami privatamente oppure apri un nuovo *issue* nella sezione *Issues*.
 
 
 <br/>
