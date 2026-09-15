@@ -60,5 +60,3 @@ $$
 $$
 
 $\mathbf{Q.E.D.} \qquad\square$
-
-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
