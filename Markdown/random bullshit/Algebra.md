@@ -6,7 +6,7 @@ Peak
 <h1 style="text-align:center;"> STIME, SERIE E DENSITÀ<h1>
 
 <br/><br/>
-
+<details><summary>  </summary> </details>
 ## 1. Serie
 
 Sia $a_{n}$ una successione di numeri reali, la *serie associata ad* $a_{n}$ è la somma di tutti gli elementi della successione. Il comportamento di una serie associata ad una successione di termini finiti è prevedibile: il risultato della serie è un numero reale che si ottiene sommando manualmente tutti i termini (oppure trovando una formula chiusa). Nel caso delle serie infinite invece si possono distinguere tre diversi comportamenti:
