@@ -1,5 +1,6 @@
 <h1 style="text-align:center;"> POLINOMI <h1>
 
+Peak
 
 <br/><br/>
 <h1 style="text-align:center;"> STIME, SERIE E DENSITÀ<h1>
