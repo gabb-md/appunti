@@ -88,7 +88,7 @@ since $b \in \mathbb{N}$.
 This leads to conclude that
 
 $$
-0<x<1
+0 < x < 1
 $$
 
 It has been established in $(3)$ that $x$ is an integer and it is possible to deduce from $(4)$ that $x \in (0,1)$. However, there are no integers in that interval. 
