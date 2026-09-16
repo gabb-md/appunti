@@ -15,8 +15,6 @@ Ad oggi, non è necessariamente il dovere di un letterato quello di trasmettere 
 
 <h1 style="text-align:center"> LA RISPOSTA DEL COGLIONE <h1>
 
-** Gemini va dall'immigrato**
-
 **Punto di forza**
 La lucidità con cui hai delineato la spaccatura tra la funzione *ontologica* del Romanticismo europeo (l'esplorazione dell'irrazionale) e quella *teleologica* del Romanticismo italiano (l'arte come strumento di ingegneria civile e "nation-building"). È una sintesi netta, storicamente e letterariamente centrata.
 
@@ -26,12 +24,39 @@ Il cortocircuito logico nella tua conclusione: affermare che "il valore è equiv
 **La domanda provocatoria**
 Se l'arte disimpegnata moderna serve solo come "riparo" per farci riposare, in modo da poter tornare il giorno dopo a sopportare le nostre estenuanti vite quotidiane, non è forse vero che questo tipo di intrattenimento è il più potente strumento di controllo politico e sociale che esista, poiché ci anestetizza e ci impedisce di ribellarci?
 
-<h1 style="text-align:center"> EBREI ISRAELE  CHATJEWPT GRRR <h1>
+<h1 style="text-align:center"> LA RISPOSTA *AL* COGLIONE <h1>
 
+**Risposta alla critica**:
 
-> me a strada ma mparat tant cos, che ste persone sono tut invidiose
-tu si nata pell ngopp a pela mi e si te guard dintr a l'occh veg pur o mar e me perdo rintro o bluuuuuuuuuuuu...,.,.,.,.,.,.,qw
+È meschino e intellettualmente disonesto screditare l'argomento utilizzando la fallacia logica dell'argomento fantoccio (*piegare l'arte esattamente a quelle stesse logiche di produttività ed efficienza*) e distorcendo il significato delle parole (il termine *utilità pratica* è stato inteso in modo da supportare l'argomento fantoccio). La critica non centra il punto dell'argomentazione, pertanto non la scalfisce. Il tentativo di attaccare la tesi è ridicolo; resta imbattuta l'argomentazione avanzata inizialmente. Si conclude con una massima di Wittgenstein, adeguatissima per condannare lo squallore di questo dibattito inflitto da una delle due parti:
+
+> Su ciò di cui non si può parlare, si deve tacere.
 >
-> ---  **some dumbass ninofiore affiliated**
+> *Ludwig Wittgenstein*, *Tractatus Logico-Philosophicus, 1921*
+
+Dimostrata la fallace prospettiva dalle quali provengono le critiche e le loro altrettanto fallaci implicazioni, si ritiene superfluo rispondere alla domanda provocatoria. Nonostante questo, i dibattenti non si esonerano da questa pedanteria.
+
+<br/>
+
+**Risposta alla domanda provocatoria:**
+
+
+Tollerato il fatto che la domanda non sia assolutamente correlata all'argomento, è malizioso e pessimistico vedere l'arte sotto questo punto di vista. L'arte resta un prodotto degli uomini, lo sfogo creativo di uno o un gruppo di individui che hanno voluto concretizzare una parte di sé in un'azione o un'opera. L'arte può essere propinata come strumento per dominare le masse e per manipolare il sentimento pubblico a scopi meno nobili, ma non è necessariamente il motivo per cui viene creata o per cui dovrebbe essere degna dell'esposizione agli altri uomini. La domanda rivolta segue la falsa riga di una famosa sentenza di Giovenale interpolata brevemente come:
+
+*"Dategli i giochi e il pane così non si ribellerano"*
+
+> ***NOTA*** è più fedele la traduzione seguente:
+> 
+> "[...] da quando non si vendono più voti, [il popolo]) ha perso ogni interesse [...]  spasima solo per due cose: pane e giochi."
+> 
+> --- Giovenale, Satira X
+
+Giovenale ironizza sulla superficialità del popolo, che si lascia corrompere moralmente dal sollazzo. Nell'eventuale verificarsi di questo scenario distopico, sarebbero imputabili i cittadini per la loro negligenza allo Stato di libertà, dal momento che l'arte non è concepita necessariamente con il fine di politicare. Resta ai cittadini l'onere di interpretare l'arte correttamente. Così si scioglie con disonore questo dibattito.
+
+
+
+
+
+
 
 
