@@ -50,6 +50,7 @@ Any difference of integers is an integer by the definition of $\mathbb{Z}$:
 $$
 \mathbb{Z}= \{a-b\ |\ a,b \in \mathbb{N}\}
 $$
+
 Therefore $x \in \mathbb{Z}$.
 
 ----
@@ -79,7 +80,8 @@ Since $n \geq b+1$ for all $n \in [b+1, \infty)$, the sum is bounded by:
 
 $$
 \sum_{n=b+1}^{\infty} \frac{b!}{n!} < \sum_{n=b+1}^{\infty} \frac{1}{(b+1)^{n-b}}= \sum_{n=1}^{\infty} \left(\frac{1}{b+1} \right)^n=\frac{\frac{1}{b+1}}{1-\frac{1}{b+1}}=\frac{1}{b} \leq 1 \qquad (4)
-$$ 
+$$
+
 since $b \in \mathbb{N}$.
 
 
