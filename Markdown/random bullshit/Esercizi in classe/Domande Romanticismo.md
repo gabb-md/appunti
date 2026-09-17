@@ -3,7 +3,7 @@
 
 - *Utile per iscopo, vero per oggetto* sono i principi dell'arte che vuole educare. Un'opera priva di un messaggio morale può avere valore?
 
-
+ 
  ---------
 
 
