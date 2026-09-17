@@ -61,6 +61,3 @@ $$
 $$
 
 $\mathbf{Q.E.D.} \qquad\blacksquare$
-
-
-
