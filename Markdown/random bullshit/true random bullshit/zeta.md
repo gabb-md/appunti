@@ -2,7 +2,7 @@ $\huge{{\mathbf{TESI}}}$
 
 
 
-La serie armonica generalizzata con esponente $2$ (alternativamente $\zeta(2)$ ) converge ad un numero reale $x \in (1, 2)$.
+La serie armonica generalizzata con esponente $2$ (alternativamente $\zeta(2)$) converge ad un numero reale $x \in (1, 2)$.
 
 $$
 1<\zeta(2)<2
