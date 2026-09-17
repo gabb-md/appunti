@@ -150,7 +150,7 @@ con $\lambda \in \mathbb{R}$.
 
 <br/><br/>
 
-## 1. Definizione di convessità e di convessità
+## 1. Definizione di convessità e di concavità
 
 Una funzione $f$ si dice *convessa* se comunque si prendano due punti distinti $(x_{1},f(x_{1}))$ e $(x_{2},f(x_{2}))$ ogni punto del segmento che ha per estremi i due punti si trova sopra al grafico della funzione.
 
@@ -187,10 +187,6 @@ Elenchiamo alcuni fatti sulle funzioni convesse:
 <br/><br/>
 
 ### 1.2 Trucco della tangente
-
-> ```math
-> \mu\left(\bigcup_{i\in I}U_i\right) = \sum_{i\in I}\mu(U_i)
-> ```
 
 <h1 style="text-align:center;"> ... <h1>
 <br/><br/>
