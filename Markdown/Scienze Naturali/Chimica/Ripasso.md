@@ -9,9 +9,16 @@ I tre numeri quantici aiutano a descrivere la struttura dell'atomo. I tre numeri
 
 ### Il ruolo dei numeri quantici
 
-$n$ è il numero quantico principale che indica il **livello energetico** in cui si trova l'orbitale e può assumere qualsiasi valore da $1$ a $7$. Il numero quantico secondario $\ell$ indica il **sottolivello energetico** che abitano gli elettroni e assume tutti i valori da $0$ a $n-1$, e descrive la **forma dell'orbitale**. Gli elettroni seguono il **principio di massima molteplicità di Hund** e si dispongono occupando prima il sottolivello energetico con energia minore (**principio di Aufbau**), ma poi si dispongono in modo da occupare più orbitali possibili. Il numero quantico magnetico $m_{\ell}$ assume tutti i valori da $-\ell$ a $+\ell$ e indica **l'orbitale** in cui si trova uno o una coppia di elettroni.
+$n$ è il numero quantico principale che indica il **livello energetico** in cui si trova l'orbitale e può assumere qualsiasi valore da $1$ a $7$ (negli elementi finora conosciuti). Il numero quantico secondario $\ell$ indica il **sottolivello energetico** che abitano gli elettroni e assume tutti i valori da $0$ a $n-1$, e descrive la **forma dell'orbitale**. Gli elettroni seguono il **principio di massima molteplicità di Hund** e si dispongono occupando prima il sottolivello energetico con energia minore (**principio di Aufbau**), ma poi si dispongono in modo da occupare più orbitali possibili. Il numero quantico magnetico $m_{\ell}$ assume tutti i valori da $-\ell$ a $+\ell$ e indica **l'orbitale** in cui si trova uno o una coppia di elettroni.
  
-Il sottolivello energetico $3d$ viola il principio di Aufbau, riempiendosi dopo il sottolivello $4s$ e prima del $4p$, anche se non propriamente, perché in realtà il sottolivello $3d$ è più energetico del $4s$ per motivi arcani.
+Il sottolivello energetico $3d$ viola l'intuizione dietro principio di Aufbau, riempiendosi dopo il sottolivello $4s$ e prima del $4p$, anche se non propriamente, perché in realtà esiste una regola che spiega questo comportamento inaspettato. La regola di Madelung o regola di Klečkovskij stabilisce che i sottolivelli che hanno una somma $n+\ell$ minore si riempiono prima rispetto a quelli con una somma maggiore. La disposizione degli elettroni segue una diagonale:
 
+$1s^{2}$
+$2s^{2}\ 2p^{6}$
+$3s^{2}\ 3p^{6}\ 3d^{10}$
+$4s^{2}\ 4p^{6}\ 4d^{10}\ 4f^{14}$
+$5s^{2}\ 5p^{6}\ 5d^{10}\ 5f^{14}$
+$6s^{2}\ 6p^{6}\ 6d^{10}$
+$7s^{2}\ 7p^{6}$
 
-
+Seguendo nel frattempo il principio di Hund.

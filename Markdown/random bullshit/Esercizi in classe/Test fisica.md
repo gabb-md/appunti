@@ -1,4 +1,4 @@
-$\mathbf{Problema\ } 1.$
+$\Huge{\mathbf{Problema\ } 1.}$
 
 La risposta corretta è $\mathbf{C.}$
 
@@ -8,13 +8,19 @@ $q+q_{1}=0 \implies q_{1}=-q$
 
 $q_{1}=ne \implies n=\frac{-q}{e}= \frac{-3.2 \times 10^{-6}C}{-1.6 \times 10^{-19}C}=2.0 \times 10^{13}$
 
-$\mathbf{Problema\ }2.$
+$\mathbf{Q.E.D.} \qquad\blacksquare$
+
+---
+
+$\huge{\mathbf{Problema\ }2.}$
 
 $\mathbf{B.}$ 
 
 Gli oggetti si attraggono.
 
-$\mathbf{Problema\ }3.$
+---
+
+$\Huge{\mathbf{Problema\ }3.}$
 
 $$
 F(R)=k \frac{Q \cdot 2Q}{R^2}=k \frac{2Q^2}{R^2}
@@ -26,13 +32,19 @@ $$
 
 La risposta corretta è $\mathbf{A.}$
 
-$\mathbf{Problema\ }4.$
+---
+
+$\Huge{\mathbf{Problema\ }4.}$
 
 La risposta corretta è $\mathbf{D.}$
 
 La particella $2$ è carica negativamente, pertanto si muove in senso opposto rispetto al vettore del campo elettrico $\vec{E}$, perciò se la particella va verso l'alto, il campo elettrico dev'essere orientato in basso.
 
-$\mathbf{Problema\ }5.$
+$\mathbf{Q.E.D.} \qquad\blacksquare$
+
+---
+
+$\huge{\mathbf{Problema\ }5.}$
 
 La risposta corretta è $\mathbf{C.}$
 
@@ -45,7 +57,9 @@ Dato che la carica interna $q$ è la stessa, il flusso è lo stesso.
 
 $\mathbf{Q.E.D.} \qquad\blacksquare$
 
-$\mathbf{Problema\ } 6.$
+---
+
+$\huge{\mathbf{Problema\ } 6.}$
 
 Consideriamo il cubo $\hat{C}$ di lato $L=2\ell$ e il cubo originale $C$ di lato $\ell$, e orientiamo $\hat{C}$ nello spazio in modo che il suo centro geometrico coincida con la posizione di $q$. Dal teorema di Gauss sappiamo che:
 
@@ -57,6 +71,10 @@ Dato che $C$ è $\frac{1}{8}$ di $\hat{C}$, concludiamo che:
 $$
 \phi_{C}(\vec{E})= \frac{\phi_{\hat{C}}(\vec{E})}{8}= \frac{q}{8\varepsilon_{0}}
 $$
+
+$\mathbf{Q.E.D.} \qquad\blacksquare$
+
+---
 
 $\mathbf{Problema\ } 7.$
 
@@ -73,11 +91,11 @@ $$
 $$
 \frac{E_{A}(R)}{E_{B}(R)}=\frac{\frac{\sigma}{\varepsilon_{0}}}{\frac{\sigma}{\varepsilon_{0}}}=1
 $$
-$$
-\square
-$$
+$\mathbf{Q.E.D.} \qquad\blacksquare$
 
-$\mathbf{Problema\ }8.$
+---
+
+$\huge{\mathbf{Problema\ }8.}$
 
 La risposta corretta è $\mathbf{E.}$
 
@@ -112,8 +130,9 @@ Da cui la tesi.
 $\mathbf{Q.E.D.} \qquad\blacksquare$
 
 
+---
 
-$\mathbf{Problema\ }9.$
+$\huge{\mathbf{Problema\ }9.}$
 
 La risposta corretta è $\mathbf{C.}$
 
@@ -154,7 +173,9 @@ E(r)= \begin{cases}
 k \frac{Q}{r^2} \text{\ se\ } r > R \\ 0 \text{\ se\ } r \leq R
 \end{cases}
 $$
+
 ### Soluzione 
+
 
 Per $r < b$ abbiamo che $E=0$, come abbiamo dimostrato. Per $b < r \leq 2b$ abbiamo che $E=E_{1}$, perché $E_{2}=0$ e al massimo $E=k \frac{Q}{b^2}$. Per $r\geq 2b$ abbiamo che $E= k \frac{2Q}{r^2}$, al massimo $E= k \frac{Q}{2b^2}$. Il massimo assoluto si ottiene quando $r=b$.
 
@@ -162,7 +183,9 @@ Tecnicamente i "massimi" sono degli estremi superiori non raggiungibili, ma con 
 
 $\mathbf{Q.E.D.} \qquad\blacksquare$
 
-$\mathbf{Problema\ } 10.$
+---
+
+$\huge{\mathbf{Problema\ } 10}.$
 
 La risposta corretta è $\mathbf{E.}$
 

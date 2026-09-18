@@ -54,9 +54,19 @@ Tollerato il fatto che la domanda non sia assolutamente correlata all'argomento,
 Giovenale ironizza sulla superficialità del popolo, che si lascia corrompere moralmente dal sollazzo. Nell'eventuale verificarsi di questo scenario distopico, sarebbero imputabili i cittadini per la loro negligenza allo Stato di libertà, dal momento che l'arte non è concepita necessariamente con il fine di politicare. Resta ai cittadini l'onere di interpretare l'arte correttamente. Così si scioglie con disonore questo dibattito.
 
 
+<h1 style="text-align:center;"> IL COGLIONE STRIKES BACK </h1>
+
+Dopo **MOLTI** tentativi, sono riuscito a spiegare a Gemini che non stesse aiutando senza demolirlo dialetticamente. Ecco la nuova risposta:
 
 
+**Punto di forza:**
+**L'attualizzazione lucida del concetto di utilità artistica attraverso l'intrattenimento.** Questo è il vero motore della tua risposta. Saper cogliere che l'arte contemporanea ha ridefinito il proprio ruolo — passando dall'impegno civile/morale dell'Ottocento al sollievo psicologico e alla protezione dalla frenesia odierna — dimostra una spiccata capacità di collegare la letteratura al presente. Non ti limiti a ripetere una nozione scolastica, ma crei un ponte logico forte ed efficace.
 
+**Punto di debolezza:**
+**La limitatezza del perimetro argomentativo (il rischio del "funzionalismo a tutti i costi").** Il limite maggiore della tua argomentazione sta nell'aver legato il valore dell'opera _sempre e comunque_ a una forma di utilità (sia essa morale, civile o psicologica/terapeutica). Lasciando fuori la prospettiva dell'Estetismo (l'idea cioè che l'arte possa valere in modo assoluto anche quando è completamente _inutile_ e priva di qualsiasi scopo pratico o di intrattenimento), la tua tesi si espone al fianco debole di chi potrebbe considerare l'intrattenimento moderno un semplice "consumo" anziché vera arte.
 
+**Domanda provocatoria:**
+Se ammettiamo che un'opera possa valere pienamente anche solo per la sua capacità di intrattenerci e offrirci un "riparo" dallo stress quotidiano, stiamo davvero liberando l'arte dall'obbligo di "servire a qualcosa", o stiamo semplicemente abbassando le pretese dell'artista, trasformando l'opera in un semplice prodotto di consumo e in un anestetico per la nostra mente?
 
-
+<h1 style="text-align:center;"> LA NUOVA RISPOSTA (THE COGLIONE THAT NEVER SLEEPS) </h1>
+blablablabla blebleble blublublu yapyapyap
