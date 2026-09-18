@@ -8,7 +8,7 @@ $$
 
 ---
 
-Confrontiamo la serie armonica con un'altra seerie associando in questo modo i termini:
+Confrontiamo la serie armonica con un'altra serie associando in questo modo i termini:
 
 $$
 $$
