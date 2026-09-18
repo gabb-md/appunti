@@ -69,4 +69,3 @@ Dopo **MOLTI** tentativi, sono riuscito a spiegare a Gemini che non stesse aiuta
 Se ammettiamo che un'opera possa valere pienamente anche solo per la sua capacità di intrattenerci e offrirci un "riparo" dallo stress quotidiano, stiamo davvero liberando l'arte dall'obbligo di "servire a qualcosa", o stiamo semplicemente abbassando le pretese dell'artista, trasformando l'opera in un semplice prodotto di consumo e in un anestetico per la nostra mente?
 
 <h1 style="text-align:center;"> LA NUOVA RISPOSTA (THE COGLIONE THAT NEVER SLEEPS) </h1>
-blablablabla blebleble blublublu yapyapyap

@@ -224,6 +224,5 @@ Naturalmente, per i motivi discussi in precedenza, cerchiamo $r_{1}>0$, pertanto
 $$
 r_{1}=2\text{m}
 $$
-Si è conclusa la dimostrazione.
 
 $\mathbf{Q.E.D.} \qquad\blacksquare$
