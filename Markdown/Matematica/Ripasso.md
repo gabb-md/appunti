@@ -1,5 +1,6 @@
 # Ripasso (smh studiate coglioni)
 
+
 $\mathbf{FUNZIONI}$
 
 $\mathbf{Definizione\ }$
