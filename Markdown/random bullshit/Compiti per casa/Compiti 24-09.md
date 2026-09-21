@@ -8,6 +8,7 @@ La risposta corretta è $\mathbf{C.}$
 $$
 U=qV=-3.0 \times 10^{-6} \text{C} \cdot 12 V =-36 \times 10^{-6} \text{J}
 $$
+
 $\mathbf{Q.E.D.} \qquad\blacksquare$
 
 ---
@@ -50,6 +51,7 @@ Si sa che:
 $$
 V_{X}= k\frac{q}{r}=k \frac{q}{a \frac{\sqrt{ 2 }}{2}}=\sqrt{ 2 }k \frac{q}{a}
 $$
+
 Per la simmetria del centro e dei vertici del quadrato, il potenziale è uguale per tutte le cariche, cioè:
 
 $$
@@ -93,16 +95,19 @@ Dal teorema dell'energia cinetica abbiamo che:
 $$
 L= \Delta K = \frac{1}{2} mV^2_{f}-\frac{1}{2}mV^2_{i}=\frac{1}{2}mV^2_{f}-0=\frac{1}{2}mV^{2}_{f}
 $$
+
 Sappiamo anche che:
 
 $$
 \Delta V = - \frac{L}{q}
 $$
+
 quindi:
 
 $$
 \frac{1}{2}mV^{2}_{f}=-q\Delta V
 $$
+
 $$
 V_{f}= \sqrt{ \frac{2q |\Delta V|}{m} }
 $$
@@ -121,16 +126,19 @@ Inizialmente il condensatore ha energia:
 $$
 U_{i}=\frac{1}{2} \frac{Q^{2}}{C}
 $$
+
 Deve avere energia finale:
 
 $$
 U_{f}= \frac{1}{2} \frac{(2Q)^{2}}{C}= \frac{2Q^2}{C}
 $$
+
 Quindi bisogna fornire un'energia
 
 $$
 L = U_{f}-U_{i}=\frac{Q^2}{C} \left( 2-\frac{1}{2} \right) = \frac{3Q^2}{2C}
 $$
+
 per raddoppiare la sua carica da $Q$ a $2Q$.
 
 
@@ -150,14 +158,17 @@ L=-q \Delta V = -|e| 40 \text{V} = 40 \text{eV}
 $$
 
 Così l'elettrone sarà arrivato al punto con potenziale $-40 \text{V}$, da lì procederà verso il punto con potenziale $30 \text{V}$. Il campo avrà compiuto un lavoro di:
+
 $$
 L_{\vec{E}}=-\Delta U = -40 \text{V} \cdot e^--30V \cdot e^-=70 \text{V}|e|=70 \text{eV}
 $$
+
 che sarà sufficiente all'elettrone per raggiungere la piastra da $0 \text{V}$, dato che bisognerebbe compiere un lavoro di:
 
 $$
 L_{\text{min}}=-\Delta U = -0 \text{V}\cdot e^- -30\text{V} \cdot e^-=30 \text{V} |e^-|=30\text{eV}
 $$
+
 fortunatamente $L_{\vec{E}} > L_{\text{min}}$, quindi l'elettrone potrà arrivare a destinazione solo con almeno $40 \text{eV}$ di energia iniziale.
 
 
@@ -174,6 +185,7 @@ La carica negativa $q_{2}$ accelererebbe spontaneamente verso la carica positiva
 $$
 L=-\Delta U
 $$
+
 perché la forza elettrica è conservativa, e che:
 
 $$
@@ -185,6 +197,7 @@ Calcoliamo $\Delta V$:
 $$
 \Delta V = V_{f}-V_{i}=k\frac{q_{1}}{r_{f}}- k \frac{q_{1}}{r_{i}}=kq_{1} \left( \frac{1}{r_{f}} - \frac{1}{r_{i}} \right)
 $$
+
 Allora è semplice calcolare $L$:
 
 $$
