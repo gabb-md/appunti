@@ -25,7 +25,7 @@ Seguendo nel frattempo il principio di Hund.
 
 $O \to 1s^2\ 2s^2\ 2p^4$
 
-![[Nota senza titolo - 21 set 2026 08.44.png]]
+![[Simboli di Lewis.png]]
 
 Secondo il **principio di esclusione di Pauli** gli elettroni si dispongono appaiati in orbitali con spin discordi.
 ## Legami chimici
