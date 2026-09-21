@@ -21,9 +21,11 @@ Questa espressione non può rappresentare una funzione né di $x$ né di $y$, pe
 $$
 x^2 +y^2=9 \implies x= \pm \sqrt{ 9-y^2 }
 $$
+
 $$
 x^2+y^2=9 \implies y= \pm \sqrt{ 9-x^2 }
 $$
+
 Per ogni $x$ esistono due valori $y$ che rappresentano soluzioni all'equazione e viceversa.
 
 $\mathbf{c.}$
@@ -34,7 +36,10 @@ La seguente non è una funzione di $x$ perché non passa il test della linea ver
 
 $d.$
 
-$y=\begin{cases} x-1\ \text{se } x \leq 0 \\ x^2 +3\ \text{se } x \geq 0 \end{cases}$
+$$
+y= \begin{cases} x-1\ \text{se } x \leq 0 \\ 
+x^2 +3\ \text{se } x \geq 0 \end{cases}
+$$
 
 $y$ non è una funzione di $x$, perché nel caso in cui $x=0$, si ottiene $y=-1$ e $y=3$, due valori diversi per lo stesso $x$.
 
@@ -93,6 +98,7 @@ Si ottengono due valori di $y$ per lo stesso $x$, alternativamente:
 $$
 y^{2}=x^{2}-1 \implies x^{2}-y^{2}=1
 $$
+
 Che è famosamente l'equazione di un'iperbole equilatera, che non passa il test della linea verticale.
 
 $\Huge{\mathbf{Esercizio\ }}4.$
@@ -100,18 +106,23 @@ $\Huge{\mathbf{Esercizio\ }}4.$
 $$
 f(x) \frac{3-4x}{x^{2}+1}
 $$
+
 $$
 f(-1) = \frac{3-4(-1)}{(-1)^{2}+1}= \frac{7}{2}
 $$
+
 $$
 f(x)=3 \implies \frac{3-4x}{x^2+1}=3 \implies 3x^2+4x=0 \implies x= 0 \lor x=-\frac{4}{3}
 $$
+
 $$
 f(3)=\frac{3-4 \cdot 3}{3^2+1}= -\frac{9}{10}
 $$
+
 $$
 f(-2)= \frac{3-4(-2)}{(-2)^{2}+1}=\frac{11}{5}
 $$
+
 $\Huge{\mathbf{Esercizio\ } 5.}$
 
 $$
@@ -131,9 +142,11 @@ f(-2)=2^{-2-1}+2=2^{-3}+2=\frac{1}{8}+2=\frac{17}{8}
 $$
 
 $\Huge{\mathbf{Esercizio\ }}9.$
+
 $$
 f(x)= \frac{x^{2}-1}{\sqrt{ x }}
 $$
+
 $D= \{x \in \mathbb{R} | x>0\}$
 
 $f(0)$ non esiste, perché $0 \not\in D$, essendo $D$ il dominio di $f$.
