@@ -104,30 +104,28 @@ La risposta corretta è $\mathbf{E.}$
 
 Sia $\vec{E}$ il campo elettrico localmente uniforme nei pressi di una particella di massa $m$ caricata positivamente $+q$.
 
-Con eccellente approssimazione $\vec{G}\_{i} = \vec{G\}_{f}$ per piccoli spostamenti, allora resta che:
+Con eccellente approssimazione $\vec{G}\\_{i} = \vec{G}\\_{f}$ per piccoli spostamenti, allora resta che:
 
 $$
-\vec{P}\_{f}=\vec{P}\_{i}=m\vec{g}\_{i}
+\vec{P}_{f}=\vec{P}_{i}=m\vec{g}_{i}
 $$
 
 Per ipotesi, $\vec{E}$ è uniforme, quindi è banale che:
 
-$$
-\vec{E}\_{i}=\vec{E}\_{f}=\vec{E} \implies \vec{F}\_{i}=\vec{F}\_{f}
-$$
+$$\vec{E}_{i}=\vec{E}_{f}=\vec{E} \implies \vec{F}_{i}=\vec{F}_{f}$$
 
 dove $\vec{F}=q\vec{E}$ è la forza per effetto del campo elettrico.
 
 Dunque, dire che:
 
 $$
-\vec{F}\_{i}+\vec{P}\_{i}=0
+\vec{F}_{i}+\vec{P}_{i}=0
 $$
 
 è equivalente a dire che:
 
 $$
-\vec{F}\_{f}+\vec{P}\_{f}=0
+\vec{F}_{f}+\vec{P}_{f}=0
 $$
 
 Da cui la tesi.
@@ -201,14 +199,14 @@ La risposta corretta è $\mathbf{E.}$
 Affinché il campo elettrico totale $\vec{E}_{t}$ sia nullo, deve accadere che:
 
 $$
-\vec{E}\_{1}+\vec{E}\_{2}=0 \implies \vec{E}_{1}=-\vec{E}_{2}
+\vec{E}_{1}+\vec{E}_{2}=0 \implies \vec{E}_{1}=-\vec{E}_{2}
 $$
 
-dove $(\vec{E}\_{1}, \vec{E}\_{2})$ sono i vettori dei campi elettrici generati da $(q_{1},q_{2})$ rispettivamente. 
+dove $(\vec{E}\\_{1}, \vec{E}\\_{2})$ sono i vettori dei campi elettrici generati da $(q_{1},q_{2})$ rispettivamente. 
 
 I vettori campo elettrico devono dunque essere opposti, cioè devono avere stesso modulo e direzione ma verso opposto. L'unico modo affinché abbiano la stessa direzione è che siano giacenti sulla retta congiungente le due cariche. Vediamo su quale punto della retta si annulla $\vec{E}_{t}$.
 
-Chiaramente, il punto cercato non può trovarsi tra le due cariche, perché queste formano un dipolo elettrico e la linea di campo appartenente alla retta è rivolta verso $q_{2}$, quindi $\vec{E}\_{t}$ non è nullo. Il punto cercato non può nemmeno trovarsi sulla destra di $q_{2}$, dato che se così fosse avremmo che $\vec{E}\_{2} > \vec{E}\_{1}$ poiché $r_{2}<r_{1}$. Allora questo punto deve trovarsi a sinistra di $q_{1}$.
+Chiaramente, il punto cercato non può trovarsi tra le due cariche, perché queste formano un dipolo elettrico e la linea di campo appartenente alla retta è rivolta verso $q_{2}$, quindi $\vec{E}\_{t}$ non è nullo. Il punto cercato non può nemmeno trovarsi sulla destra di $q_{2}$, dato che se così fosse avremmo che $\vec{E}\\_{2} > \vec{E}\\_{1}$ poiché $r_{2}<r_{1}$. Allora questo punto deve trovarsi a sinistra di $q_{1}$.
 
 Perciò possiamo scrivere che:
 
