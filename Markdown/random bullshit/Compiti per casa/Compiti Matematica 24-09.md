@@ -109,7 +109,6 @@ $$
 
 Cioè:
 
-
 $$
 D= \\{ x \in \mathbb{R} | x \neq \frac{\pi}{3} + 2\pi k \land x \neq \frac{5}{3}\pi + 2\pi k  \\}, k \in \mathbb{Z}
 $$
