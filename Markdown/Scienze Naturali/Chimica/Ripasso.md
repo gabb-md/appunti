@@ -33,3 +33,4 @@ Secondo il **principio di esclusione di Pauli** gli elettroni si dispongono appa
 Un **legame covalente** consiste in una coppia di elettroni condivisa tra due atomi, nessuno dei due quindi cede o acquista davvero un elettrone, piuttosto, condividono un elettrone per migliorare la reciproca stabilità.
 
 L'**elettronegatività** è la tendenza di un atomo di attrarre verso di sé gli elettroni in un legame covalente. Essendo una proprietà periodica, aumenta nel periodo e diminuisce nel gruppo. 
+
