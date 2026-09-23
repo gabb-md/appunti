@@ -49,4 +49,4 @@ Il coguaro nero annuì, tacque e si voltò.
 Questa favola è scritta più per gli uomini, che per i giaguari, i quali, investiti di un'autorità e un potere che non gli spetta per un difetto nello spirito, perpetrano ingiustizie su gli indifesi uomini che hanno un'aspetto diverso da quello che lo specchio riflette ai primi. Sono destinatari anche gli uomini, deboli quanto il giaguaro bianco, che alla vista delle sue ingiustizie tacciono e non incalzano sulle palesi incongruenze con la verità e la deontologia del loro lavoro. 
 
 
-![doremi](/Immagini/doremi.jpg)
+![doremi](/Immagini/bakoo.jpg)
