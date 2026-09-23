@@ -1,12 +1,12 @@
-# CHE SCHIFO
+# CHE SCHIFO 🤮🤮😭😭😭
 
 Sto usando GitHub per rendere il più semplice possibile accedere a questi contenuti, ma purtroppo il visualizzatore interno di GitHub **FA SCHIFO**. Scrivo i miei appunti in Obisidian, poi li carico su GitHub pregando che il Markdown renderer di GitHub voglia concordare con quello di Obsidian. Molto spesso, non funziona e devo riscrivere alcuni parti degli appunti perché GitHub si rifiuta di interpretare correttamente il file. Ci sono cose che non posso correggere, perché si tratta di limitazioni intrinseche di questo *penoso* sito, per questo consiglio di scaricare i file di cui si ha davvero bisogno per una consultazione più approfondita. Consiglio di scaricare Obsidian per visualizzare i `.md`, perché sul mio Obsidian funzionano, quindi dovrebbero funzionare anche sul tuo.
 
-# Aggiornamenti
+# Aggiornamenti 🆕🆕
 
 Ho aggiunto la cartella `Immagini`, dove sono contenute tutte le immagini che troverai nelle note. Sono presenti anche i compiti per casa e gli esercizi svolti in classe nella cartella `random bullshit`, presente sia in `Markdown` che in `PDF`. Alcuni file non possono essere stati trasformati in `.pdf`, questi file hanno un avviso all'inzio nella versione `.md` che indica l'assenza di un corrispondente `.pdf`.
 
-### AVVERTENZA
+### AVVERTENZA ⚠️⚠️⚠️
 
 La sottocartella `true random bullshit` (presente come sottocartella a `random bullshit` sia in `Markdown` che in `PDF` ) può contenere contenuti spaventosi (i.e. matematica), aprire e visualizzare con prudenza.
 # Guida agli appunti
@@ -17,7 +17,7 @@ Questi sono tutti gli appunti che ho preso durante l'anno scolastico (**vergogno
 
 <br/>
 
-# Come leggere gli appunti
+# Come leggere gli appunti ❓📒
 
 Si può navigare la *repository* come un classico file explorer. È organizzata gerarchicamente per tipi di file e per materie nel modo che segue:
 
@@ -63,13 +63,13 @@ Gli appunti in Markdown sono indicati dall'estensione file `.md`, sono molto sim
 
 <br/>
 
-# Scusa
+# Scusa 😪
 
 Utilizzerò davvero poco gli elementi stilistici di HTML e CSS, per assicurare la compatibilità e la massima fedeltà ai `.pdf` e perché non sono abbastanza bravo con questi markup (anche perché un quarto delle cose non funziona comunque su GitHub).
 
 <br/>
 
-# Quando usare questi appunti
+# Quando usare questi appunti 😊
 
 Confido nel tuo senso di responsabilità sperando che continuerai a prendere i tuoi appunti di tua sponde. Sconsiglio di affidarsi completamente ai miei appunti perché prenderne di propri in classe aiuta la comprensione dell'argomento, perché richiede comunque uno sforzo cognitivo schematizzare e scrivere ciò che si ritiene più importante. Va da sé che questi appunti non sono sostituibili ai libri di testo, soprattutto nel caso delle materie umanistiche, pertanto consiglio di utilizzarli come supporto al libro scolastico. Usa questi appunti solo se non hai potuto prenderne di tuoi oppure se ritieni che i tuoi siano incompleti. Continua comunque a prenderne di tuoi, migliora la tua tecnica, così non dovrai fare affidamento su nessuno. Ovviamente, ognuno studia e prende appunti a modo proprio. Se il mio metodo di studio non è conforme al tuo metodo di apprendimento, non c'è motivo di ostinarsi a imparare con i miei appunti.
 
@@ -82,7 +82,7 @@ Confido nel tuo senso di responsabilità sperando che continuerai a prendere i t
 
 <br/>
 
-# Conclusione
+# Conclusione ✅✅
 
 Spero che questi appunti possano tornarti utili, spero di poterti aiutare anche in classe. Se ti domandi perché impiego il mio tempo e il mio impegno in una cosa così faticosa e (sotto certi punti di vista) disutile, ti lascio illuminare da Eulero:
 
