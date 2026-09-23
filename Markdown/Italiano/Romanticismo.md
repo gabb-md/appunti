@@ -14,13 +14,13 @@ Mentre l'Illuminismo aveva studiato tutto ciò che era materia di competenza del
 
 ## Etimologia
 
-Il termine *Romantic* nacque nel '600 in Inghilterra, usato come termine spregiativo contro le fantastiche storie dei romanzi cavallereschi. In Francia, alla fine del '700, nacque il termine *Romantique*, che perse l'accezione negativa, indicando il vago dello spirito. In Germania nacque il termine *Romantisch* per indicare il distacco dalla culturaa classica.
+Il termine *Romantic* nacque nel '600 in Inghilterra, usato come termine spregiativo contro le fantastiche storie dei romanzi cavallereschi. In Francia, alla fine del '700, nacque il termine *Romantique*, che perse l'accezione negativa, indicando il vago dello spirito. In Germania nacque il termine *Romantisch* per indicare il distacco dalla cultura classica.
 
 ## Temi e miti romantici
 
 Nonostante l'avanzata incessante del progresso, il Romanticismo tratta di sentimenti negativi perché il ritmo fulmineo delle rivoluzioni minava le certezze esistenziali dell'uomo.
 
-Il Romanticismo, oltre all'attenzione per i sentimenti, è caratterizzato anche da una tensione continua all'infinito, concetto per cui i tedeschi hanno coniato il termine ***Sehnsuct*** cioè il desiderio di desiderare, sempre di **più** (vd. *Viandante sul mare di nebbia*). L'esotimo romantico era sia di ambito spaziale che temporale, una fuga dall'attualità
+Il Romanticismo, oltre all'attenzione per i sentimenti, è caratterizzato anche da una tensione continua all'infinito, concetto per cui i tedeschi hanno coniato il termine ***Sehnsuct*** cioè il desiderio di desiderare, sempre di **più** (vd. *Viandante sul mare di nebbia*). L'esotimo romantico era sia di ambito spaziale che temporale, una fuga dall'attualità.
 
 **L'infanzia** è un tema ricorrente e la fanciullezza dell'umanità (età primitiva).
 
