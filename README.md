@@ -1,4 +1,16 @@
+# CHE SCHIFO
+
+Sto usando GitHub per rendere il più semplice possibile accedere a questi contenuti, ma purtroppo il visualizzatore interno di GitHub **FA SCHIFO**. Scrivo i miei appunti in Obisidian, poi li carico su GitHub pregando che il Markdown renderer di GitHub voglia concordare con quello di Obsidian. Molto spesso, non funziona e devo riscrivere alcuni parti degli appunti perché GitHub si rifiuta di interpretare correttamente il file. Ci sono cose che non posso correggere, perché si tratta di limitazioni intrinseche di questo *penoso* sito, per questo consiglio di scaricare i file di cui si ha davvero bisogno per una consultazione più approfondita. Consiglio di scaricare Obsidian per visualizzare i `.md`, perché sul mio Obsidian funzionano, quindi dovrebbero funzionare anche sul tuo.
+
+# Aggiornamenti
+
+Ho aggiunto la cartella `Immagini`, dove sono contenute tutte le immagini che troverai nelle note. Sono presenti anche i compiti per casa e gli esercizi svolti in classe nella cartella `random bullshit`, presente sia in `Markdown` che in `PDF`. Alcuni file non possono essere stati trasformati in `.pdf`, questi file hanno un avviso all'inzio nella versione `.md` che indica l'assenza di un corrispondente `.pdf`.
+
+### AVVERTENZA
+
+La sottocartella `true random bullshit` (presente come sottocartella a `random bullshit` sia in `Markdown` che in `PDF` ) può contenere contenuti spaventosi (i.e. matematica), aprire e visualizzare con prudenza.
 # Guida agli appunti
+
 <br/>
 
 Questi sono tutti gli appunti che ho preso durante l'anno scolastico (**vergognoso**). Li ho caricati su GitHub così che persone bisognose come te possano fruirne. Naturalmente sono presenti solo gli appunti presi nelle lezioni in cui io ero presente; non mi curerò di redigere appunti digitali sulla base di appunti cartacei già esistenti che ho consultato come materiale di studio (fatta eccezione per argomenti che io ritengo essere di massima importanza). 
@@ -53,7 +65,7 @@ Gli appunti in Markdown sono indicati dall'estensione file `.md`, sono molto sim
 
 # Scusa
 
-Utilizzerò davvero poco gli elementi stilistici di HTML e CSS, per assicurare la compatibilità e la massima fedeltà ai `.pdf` e perché non sono abbastanza bravo con questi markup.
+Utilizzerò davvero poco gli elementi stilistici di HTML e CSS, per assicurare la compatibilità e la massima fedeltà ai `.pdf` e perché non sono abbastanza bravo con questi markup (anche perché un quarto delle cose non funziona comunque su GitHub).
 
 <br/>
 
