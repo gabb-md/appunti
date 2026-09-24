@@ -6,11 +6,11 @@ $\Huge{\mathbf{Esercizio\ } 29.}$
 
 $\mathbf{a.}$
 
-$D= \\{ x \in \mathbb{R} | -1 \leq x \leq 5\\}$
+$D= \{ x \in \mathbb{R} | -1 \leq x \leq 5\}$
 
 $\mathbf{b.}$
 
-$D = \\{x \in | -3 \leq x \leq 6\\}-\\{2\\}$
+$D = \{x \in | -3 \leq x \leq 6\}-\{2\}$
 
 $\mathbf{c.}$
 
@@ -18,7 +18,7 @@ $D= \mathbb{R}$
 
 $\mathbf{d.}$
 
-$D= \\{x \in \mathbb{R} | x \leq 2\pi\\}$
+$D= \{x \in \mathbb{R} | x \leq 2\pi\}$
 
 $\Huge{\mathbf{Esercizio\ } 30.}$
 
@@ -62,7 +62,7 @@ $$
 y= \frac{x-1}{x^2(x+5)}
 $$
 
-$D=\\{ x \in \mathbb{R} | x^{2}(x+5) \neq 0 \\}$
+$D=\{ x \in \mathbb{R} | x^{2}(x+5) \neq 0 \}$
 
 $x^{2}=0 \land (x+5) \neq 0 \implies x \neq 0\land x \neq -5$
 
@@ -75,7 +75,7 @@ $$
 y=\frac{1}{\sqrt{ x^4+4x^2 }}
 $$
 
-Il dominio di questa funzione è $\mathbb{R}-\\{ 0 \\}$.
+Il dominio di questa funzione è $\mathbb{R}-\{ 0 \}$.
 
 $\Huge{\mathbf{Esercizio\ } 87.}$
 
@@ -117,7 +117,7 @@ In definitiva:
 
 
 $$
-D = \\{ x \in \mathbb{R} | x >0 \\} - \\{ e \\}
+D = \{ x \in \mathbb{R} | x >0 \} - \{ e \}
 $$
 
 $\Huge{\mathbf{Esercizio\ } 141.}$
@@ -145,7 +145,7 @@ In definitiva, il dominio è:
 
 
 $$
-D = \left \\{  x \in \mathbb{R} | x \neq \frac{\pi}{6}+2\pi k \land x \neq \frac{5}{6}\pi+2\pi k \land x \neq \frac{\pi}{2}+ \pi k  \right \\},\ k \in \mathbb{Z}
+D = \left \{  x \in \mathbb{R} | x \neq \frac{\pi}{6}+2\pi k \land x \neq \frac{5}{6}\pi+2\pi k \land x \neq \frac{\pi}{2}+ \pi k  \right \},\ k \in \mathbb{Z}
 $$
 
 $\Huge{\mathbf{Esercizio\ } 142.}$
@@ -296,7 +296,7 @@ Dato che il denominatore è sempre positivo quando $x \neq 0$, possiamo conclude
 
 
 $$
-D= \\{ x \in \mathbb{R} | x \geq 2 \\}
+D= \{ x \in \mathbb{R} | x \geq 2 \}
 $$
 
 
