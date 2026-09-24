@@ -14,16 +14,12 @@ $\mathbf{Q.E.D.} \qquad\blacksquare$
 
 $\Huge{\mathbf{Esercizio\ } 2.}$
 
-La risposta corretta è $\mathbf{B.}$
+La risposta corretta è $\mathbf{A.}$
 
+Dato che lo psostamento è perpendicolare al campo elettrico, la variazione di energia potenziale è nulla.
 
-$$
-\Delta V= -E \cdot \Delta s =-150 \text{V/m} \cdot 0.1 \text{m}=- 15 \text{V}
-$$
+> ***PROMEMORIA***: *imparare a leggere*
 
-$$
-\Delta V = - \frac{L}{q} \implies L = - \Delta V q = 15 \text{V} \cdot - 4 \times 10^{-6} \text{C}=-6.0 \times 10^{-5} \text{J}
-$$
 
 $\mathbf{Q.E.D.} \qquad\blacksquare$
 
