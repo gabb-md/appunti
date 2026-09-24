@@ -17,6 +17,7 @@ $\Huge{\mathbf{Esercizio\ }101.}$
 $$
 y= \sqrt{ \ln x } + \sqrt{ 4x-x^{2} }
 $$
+
 $x>0$ perché dev'esistere il logaritmo, ma deve anche esistere il primo radicando, quindi $\ln x \geq 0$, cioè $x \geq 1$. Dev'esistere anche il secondo radicando, cioè:
 
 
