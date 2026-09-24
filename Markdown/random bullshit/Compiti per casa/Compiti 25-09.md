@@ -83,6 +83,21 @@ $$
 $$
 
 
+$\Huge{\mathbf{Esercizio\ } 143.}$
+
+
+$$
+y= 1-\sqrt{ 2\sin x-1 }
+$$
+
+Imponiamo l'esistenza del radicando:
+
+
+$$
+2\sin x-1 \geq 0 \implies \sin x \geq \frac{1}{2} \implies \frac{\pi}{6}+2\pi k \leq x \leq \frac{5}{6} \pi +2\pi k,\ k \in \mathbb{Z}
+$$
+
+
 
 
 
