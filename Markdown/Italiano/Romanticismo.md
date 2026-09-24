@@ -48,7 +48,3 @@ Vi è innegabile continuità tra l'Illuminismo e il Romanticismo italiano. Il pr
 ## Differenza tra Romanticismo italiano ed europeo
 
 In Italia, a causa dell'arretratezza, paradossalmente non si vivono i disagi moderni europei. L'intellettuale borghese europeo si ribella ad una cultura pratica e volge la sua attenzione all'irrazionale. In Italia l'intellettuale non lotta contro a società, perciò il Romanticismo si concilia con l'Illuminismo affermatosi in Italia. Leopardi, a titolo d'esempio, è un romantico italiano molto più affine agli europei, incarnando completamente il Sehnsuct.
-
-
-
-

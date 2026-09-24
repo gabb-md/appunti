@@ -52,3 +52,4 @@ Questa favola è scritta più per gli uomini, che per i giaguari, i quali, inves
 ![doremi](/Immagini/bakoo.jpg)
 
 Ritratto del tapiro prima della decapitazione (poverino).
+
