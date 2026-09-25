@@ -90,3 +90,22 @@ $$
 Una funzione biunivoca è sia iniettiva che suriettiva.
 
 
+$\mathbf{Definizione.}$
+
+Una funzione $f : D \to \mathbb{R}$ si dice *strettamente crescente in* $I$ se e solo se:
+
+
+$$
+x_{1} < x_{2}  \iff f(x_{1}) < f(x_{2}),\ \forall(x_{1},x_{2}) \in I
+$$
+
+
+$\mathbf{Definizione.}$
+
+Una funzione $f : D \to \mathbb{R}$ si dice *strettaemente decrescente in* $I \subseteq D$ se e solo se:
+
+
+$$
+x_{1} < x_{2} \iff f(x_{1}) > f(x_{2}),\ \forall (x_{1},x_{2}) \in I
+$$
+
