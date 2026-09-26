@@ -52,6 +52,7 @@ Se $H>h$ dev'essere anche che:
 $$
 H=\infty
 $$
+
 Ciò dimostra la tesi.
 
 $\mathbf{Q.E.D} \qquad\blacksquare$
