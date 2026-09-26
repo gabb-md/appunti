@@ -109,3 +109,29 @@ $$
 x_{1} < x_{2} \iff f(x_{1}) > f(x_{2}),\ \forall (x_{1},x_{2}) \in I
 $$
 
+
+$\mathbf{Definzione.}$
+
+Una funzione $f: D \to \mathbb{R}$ si dice *pari* se e solo se:
+
+
+$$
+f(x)=f(-x),\ \forall x \in D
+$$
+
+Geometricamente si nota una simmetria rispetto all'asse $y$.
+
+$\mathbf{Definizione}.$
+
+Una funzione $f: D \to \mathbb{R}$ si dice *dispari* se e solo se:
+
+$$
+f(x)=-f(-x),\ \forall x \in D
+$$
+
+Geometricamente si nota una simmetria rispetto all'origine degli assi cartesiani.
+
+> ***NOTA:*** *Ovviamente, la maggior parte delle funzioni reali di variabile reale non è né pari né dispari.*
+
+
+

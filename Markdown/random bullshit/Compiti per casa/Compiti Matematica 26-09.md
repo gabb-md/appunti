@@ -58,7 +58,7 @@ La $f$ rappresentata è crescente in senso stretto in:
 
 
 $$
-(-\infty, 1)
+(-\infty, -1)
 $$
 
 

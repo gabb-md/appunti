@@ -83,7 +83,17 @@ $$
 
 $\Huge{\mathbf{Esercizio\ }5.}$
 
-Non abbiamo fatto i circuiti $\text{RC}$ e io sono troppo stupido (scusa) 😭😭😭.
+La risposta corretta è $\mathbf{A.}$
+
+
+$$
+\tau=RC=  3000 \Omega \cdot 1 \times 10^{-6} \text{F}=3 \times 10^{-3} \text{s}
+$$
+
+
+$$
+I=\frac{V_{0}}{R}= \frac{6\text{V}}{3000 \Omega}= 2 \times 10^{-3} \text{A}
+$$
 
 
 
