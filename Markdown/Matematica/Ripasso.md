@@ -3,7 +3,7 @@
 
 $\mathbf{FUNZIONI}$
 
-$\mathbf{Definizione\ }$
+$\mathbf{Definizione.}$
 
 Siano $A,B \subseteq \mathbb{R}$, se $f: A \to B$, è tale che $\forall x \in A (\exists! f(x) \in B)$, si dice che $f$ è una *funzione reale di variabile reale*. L'insieme $A$ è noto come *dominio di* $f$, l'insieme $B$ è noto come *codominio di* $f$. Si definisce l'insieme immagine come:
 
@@ -22,7 +22,7 @@ P \in G \iff P=(x,f(x)),\ x \in A
 $$
 
 
-$\mathbf{Classificazione}$
+$\mathbf{Classificazione.}$
 
 Le funzioni reali a variabile reale si dividono secondo la seguente classificazione:
 
