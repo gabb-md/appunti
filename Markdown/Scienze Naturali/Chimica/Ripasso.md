@@ -2,7 +2,7 @@
 
 ## BREVE storia dei modelli atomici
 
-Scoperta l'esistenza dell'elettrone, la prima ipotesi avanzata sulla struttura dell'atomo era quella di **J.J Thomson**, che ipotizzò l'atomo fosse una sfera caricata positivamente, con al suo interno immersi gli **elettroni con una disposizione casuale**, il celeberrimo modello *"a panettone"*. Con il suo esperimento, **Rutherford** tentò di correggere il modello di Thomson, proponendone uno simile a quello di un **sistema planetario**. Al centro dell'atomo si trovava il nucleo, caricato positivamente da delle particelle identificate come *protoni*, attorno al nucleo orbitavano gli elettroni secondo orbite affini a quelle che si formano per effetto delle forze gravitazionali. Il modello di Rutherford era incorretto secondo la fisica classica, perché un elettrone, orbitando attorno al nucleo, avrebbe dovuto perdere gradualmente energia finalmente congiungendosi al nucleo. Dato che però nessuno aveva mai osservato il **collasso della materia**, sorse l'esigenza di elaborare un nuovo modello. Sopperì a questo compito il fisico danese **Niels Bohr**, che propose di **quantizzare le orbite** degli elettroni, in modo da risolvere il problema del collasso di Rutherford. Lo sviluppo della fisica quantistica generò un'ulteriore interpretazione del modello atomico, il **modello quantomeccanico**, secondo cui gli elettroni occuperebbero delle regioni di spazio definite con il termine "***orbitali***", organizzati secondo livelli energetici similmente a come aveva postulato Bohr, con **probabilità** aleatoria di trovarsi in ogni punto dello spazio all'interno dell'orbitale. Il modello quantomeccanico è quello a cui la fisica delle particelle e la chimica generale fanno riferimento oggi. 
+Scoperta l'esistenza dell'elettrone, la prima ipotesi avanzata sulla struttura dell'atomo era quella di **J.J Thomson**, che ipotizzò l'atomo fosse una sfera caricata positivamente, con al suo interno immersi gli **elettroni con una disposizione casuale**, il celeberrimo modello ***"a panettone"***. Con il suo esperimento, **Rutherford** tentò di correggere il modello di Thomson, proponendone uno simile a quello di un **sistema planetario**. Al centro dell'atomo si trovava il nucleo, caricato positivamente da delle particelle identificate come ***protoni***, attorno al nucleo orbitavano gli elettroni secondo orbite affini a quelle che si formano per effetto delle forze gravitazionali. Il modello di Rutherford era incorretto secondo la fisica classica, perché un elettrone, orbitando attorno al nucleo, avrebbe dovuto perdere gradualmente energia finalmente congiungendosi al nucleo. Dato che però nessuno aveva mai osservato il **collasso della materia**, sorse l'esigenza di elaborare un nuovo modello. Sopperì a questo compito il fisico danese **Niels Bohr**, che propose di **quantizzare le orbite** degli elettroni, in modo da risolvere il problema del collasso di Rutherford. Lo sviluppo della fisica quantistica generò un'ulteriore interpretazione del modello atomico, il **modello quantomeccanico**, secondo cui gli elettroni occuperebbero delle regioni di spazio definite con il termine "***orbitali***", organizzati secondo livelli energetici similmente a come aveva postulato Bohr, con **probabilità** aleatoria di trovarsi in ogni punto dello spazio all'interno dell'orbitale. Il modello quantomeccanico è quello a cui la fisica delle particelle e la chimica generale fanno riferimento oggi. 
 ## Numeri quantici
 
 I tre numeri quantici aiutano a descrivere la struttura dell'atomo. I tre numeri quantici sono $(n,\ell, m_{\ell})$, rispettivamente: numero quantico principale, numero quantico secondario e il numero quantico magnetico.
@@ -34,3 +34,17 @@ Un **legame covalente** consiste in una coppia di elettroni condivisa tra due at
 
 L'**elettronegatività** è la tendenza di un atomo di attrarre verso di sé gli elettroni in un legame covalente. Essendo una proprietà periodica, aumenta nel periodo e diminuisce nel gruppo. 
 
+A seconda della differenza di elettronegatività, si instaurano tra gli atomi legami diversi. Quando la differenza di elettronegatività è $0.4< \Delta \epsilon <1.9$ vi è un legame covalente polare, quando l'elettronegatività degli atomi è la stessa ($\Delta \epsilon < 0.4$), si instaura un **legame covalente puro**. Se $\Delta \epsilon > 1.9$ il legame è **ionico**.
+
+Il legame covalente può essere:
+
+- **singolo** quando è condivisa solo una coppia di elettroni;
+- **multiplo** quando sono condivise più coppie di elettroni;
+- **dativo** quando *un solo* atomo condivide la coppia di elettroni;
+- **polare** quando tra gli atomi si ha una grande differenza di elettronegatività.
+
+Secondo la **regola dell'ottetto**, la configurazione elettronica di massima stabilità di un atomo è quella del **gas nobile più vicino** nella tavola periodica.
+
+L'**energia di legame** è l'energia necessaria per indurre o rompere un legame atomico, dipende dalla **lunghezza di legame** che è misurata in Angstrom e misura la distanza tra i due nuclei degli atomi che si legano.
+
+L'**ordine di legame** è il numero di coppie di elettroni condivise tra due atomi.
