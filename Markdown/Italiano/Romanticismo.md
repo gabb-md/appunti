@@ -6,7 +6,7 @@ Il Romanticismmo è un movimento culturale - non soltanto letterario - cioè che
 
 ## Brevissimo contesto storico
 
-Il Romanticismo arriva al ridosso della Rivoluzione Francese che aveva scardinato l'*ancient régime*, dalle rivoluzioni economiche (in particolare la I e la II Rivoluzione Industriale).
+Il Romanticismo arriva al ridosso della Rivoluzione Francese che aveva scardinato l'*ancien régime*, dalle rivoluzioni economiche (in particolare la I e la II Rivoluzione Industriale).
 
 ## Caratteri del Romanticismo
 
