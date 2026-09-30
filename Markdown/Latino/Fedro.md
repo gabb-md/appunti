@@ -8,7 +8,7 @@ Da Tiberio in poi, gli imperatori limitavano molto la libertà espressiva degli 
 
 Fedro è un favolista, considerato un intellettuale minore. La favola non era un genere proprio a Roma; spesso la favola era una digressione inserita in altre opere. Il modello di Fedro è lo scrittore, favolista, greco Esopo. Non si hanno notizie dirette della vita di Fedro, perché non era ritenuto di interesse dai suoi contemporanei. Estrapolando dalle sue opere, si può dedurre che sia nato in Macedonia (Monte Pierio) oppure in Tracia, in ogni caso tra il 20 e il 15 a.C. Arrivò a Roma probabilmente come *schiavo familiaris*, precettore (probabilmente dei nipoti di Augusto), liberato da Augusto. Si pensa che le favole siano servite a Fedro per la sua attività di insegnante.
 
-Mentre Esopo scrive le favole in prosa, Fedro scrive le strofe in versi, utilizzando il senario giambico piuttosto che l'esametro. Il verso utilizzato da Fedro è quello utilizzato nei dialoghi delle commedie, l'arte del "realisnmo", e Fedro voleva che le sue opere fossero realistiche malgrado gli evidenti elementi surreali.
+Mentre Esopo scrive le favole in prosa, Fedro scrive le strofe in versi, utilizzando il senario giambico piuttosto che l'esametro. Il verso utilizzato da Fedro è quello utilizzato nei dialoghi delle commedie, l'arte del "realismo", e Fedro voleva che le sue opere fossero realistiche malgrado gli evidenti elementi surreali.
 
 Fedro fu citato in giudizio sotto Tiberio dal pretorio Seiano, probabilmente infastidito dalle allusioni contenute nelle favole di Fedro. Il favolista uscì indenne dal processo, Seiano, poi, cadde in disgrazia e Fedro riprese a prendere favole. 
 
@@ -35,4 +35,4 @@ La prima favola del primo libro di Fedro in cui il lupo accusa l'agnello di più
 
 ## Rivalutazione di Fedro
 
-Fedro fu rivalutato in epoca moderna, ispirando i favolisti moderni, come il famosissimo francese De Montaigne.
+Fedro fu rivalutato in epoca moderna, ispirando i favolisti moderni, come il famosissimo francese Jean de La Fontaine.
