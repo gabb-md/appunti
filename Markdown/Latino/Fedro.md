@@ -2,8 +2,6 @@
 
 ## Contesto storico
 
-....
-
 Da Tiberio in poi, gli imperatori limitavano molto la libertà espressiva degli intellettuali (molti furono costretti al suicidio sotto Nerone).
 
 # Biografia
