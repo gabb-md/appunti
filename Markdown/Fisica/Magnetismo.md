@@ -59,6 +59,55 @@ $$
 
 Si può calcolare la direzione e il verso di $\vec{F}$ usando la **regola della mano destra**, posizionando il pollice lungo la direzione del vettore velocità e le altre dita in direzione del campo magnetico, il vettore $\vec{B}$ è uscente dal palmo della mano destra. **Se la carica è negativa**, il **verso** di $\vec{F}$ è **l'opposto** rispetto a quello che si trova applicando la regola della mano destra.
 
+La forza di Lorentz produce una forza centripeta che muove la carica in una traiettoria circolare, calcoliamone il raggio:
+
+
+$$
+F_{L}=F_{c}
+$$
+
+
+$$
+qvB\sin(90\degree)=m \frac{v^2}{r}
+$$
+
+
+$$
+r=\frac{mv}{qB}
+$$
+
+Calcoliamo il periodo:
+
+
+$$
+T= \frac{2\pi r}{v}= \frac{ 2\pi mv}{vqB}=\frac{2\pi m}{qB}
+$$
+
+
+$$
+f= \frac{1}{T}= \frac{qB}{2\pi m}
+$$
+
+Se l'angolo tra $\vec{B}$ e $\vec{v}$ è diverso da $\frac{\pi}{2}$, la particella si muove in una traiettoria elicoidale. Possiamo scomporre il vettore velocità in un vettore parallelo $\vec{v}_{\parallel}$ al campo magnetico $\vec{B}$ e uno perpendicolare $\vec{v}_{\perp}$ allo stesso campo. Allora la componente parallela non genera la forza di Lorentz, che invece per la componente perpendicolare è massima, quindi possiamo considerare il moto circolare indotto da questa forza di Lorentz:
+
+
+$$
+r= \frac{mv_{\perp}}{qB}= \frac{mv\sin \alpha}{qB}
+$$
+
+Dato che esiste ancora la componente $\vec{v}_{\parallel}$, la particella continuerà a muoversi anche in direzione del campo magnetico $\vec{B}$. Definiamo il passo dell'elica come la distanza un punto su una circonferenza e quello individuato dalla direzione del vettore di $\vec{B}$, cioè quello immediatamente *sopra*:
+
+$$
+p=v_{\parallel} \cdot T = \frac{2\pi m}{qB} v\cos \alpha
+$$
+
+
+Dove $p$ è passo dell'elica, cioè la distanza tra due punti giunti da un'ortogonale sull'avvolgimento immediatamente successivo.
+
+
+
+
+
 
 
 
