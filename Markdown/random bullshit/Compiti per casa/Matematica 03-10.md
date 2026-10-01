@@ -1,6 +1,6 @@
 # Pagina 1372
 
-$\Huge{\mathbf{Esercizio\ } .301}$
+$\Huge{\mathbf{Esercizio\ } 301.}$
 
 
 $$
@@ -37,7 +37,7 @@ $$
 y-1=2^{4-(x+4)} = 2^{-x}+1
 $$
 
-$\Huge{\mathbf{Esercizio\ } .302}$
+$\Huge{\mathbf{Esercizio\ } 302.}$
 
 
 
@@ -74,7 +74,7 @@ y=-\ln(x+3)+1
 $$
 
 
-$\Huge{\mathbf{Esercizio\ }.311}$
+$\Huge{\mathbf{Esercizio\ }311.}$
 
 $\mathbf{a.}$
 
@@ -125,7 +125,7 @@ $$
 y=-\sin |x| +1
 $$
 
-$\Huge{\mathbf{Esercizio\ } .312}$
+$\Huge{\mathbf{Esercizio\ } 312.}$
 
 $\mathbf{a.}$
 
