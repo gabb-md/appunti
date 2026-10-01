@@ -14,7 +14,7 @@ L'assoluto hegeliano segue questo processo dialettico. La **logica** (l'idea in 
 
 **Hegel** definisce la **logica aristotelica** come una logica ***formale e astratta***, che non portava a conoscere l'essere.
 
-**Hegel** è molto **critico** nei confronti di **Fichte** e di **Schelling**, definendo **l'assoluto** schellingiano come ***la notte in cui tutte le vacche sono nere***, perché se nella notte le vacche sembrano nere (perché incombono il buio e le tenebre), secondo Schelling e l'equivalenza tra logica e metafisica, non solo le vacche sembrano nere, ma **sarebbero** nere, assurdo per Hegel. 
+**Hegel** è molto **critico** nei confronti di **Fichte** e di **Schelling**, definendo **l'assoluto** schellingiano come ***la notte in cui tutte le vacche sono nere***, perché se nella notte le vacche sembrano nere (perché incombono il buio e le tenebre), secondo Schelling e **l'equivalenza tra logica e metafisica**, non solo le vacche sembrano nere, ma **sarebbero** nere, assurdo per Hegel. 
 
 Per Fichte, l'assoluto era l'egoità, ma per Hegel l'assoluto è il logos, cioè lo spirito, che è **superiore** all'idea in sé perché ha preso coscienza di sé.
 
