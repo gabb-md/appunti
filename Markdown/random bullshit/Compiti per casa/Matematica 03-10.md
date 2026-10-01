@@ -1,5 +1,45 @@
 # Pagina 1372
 
+$\Huge{\mathbf{Esercizio\ } 300.}$
+
+
+$$
+y=x^{2}-2x
+$$
+
+Applichiamo la simmetria centrale rispetto a $C(0,1)$:
+
+
+$$
+\begin{cases}
+\frac{x'+x}{2}= 0 \\\\ \frac{y'+y}{2}=1
+\end{cases}
+$$
+
+
+$$
+2-y=(-x)^{2}-2(-x) \implies y= -x^{2}-2x+2
+$$
+
+
+Simmetria rispetto a $y=3$
+
+
+$$
+\begin{cases}
+x'=x \\\\ \frac{y'+y}{2}=3
+\end{cases}
+$$
+
+
+$$
+6-y=-x^{2}-2x+2 \implies y= x^{2}+2x+4
+$$
+
+
+
+
+
 $\Huge{\mathbf{Esercizio\ } 301.}$
 
 
