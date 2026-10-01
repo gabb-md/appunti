@@ -173,6 +173,7 @@ $\mathbf{a.}$
 $$
 y=\cos |x| +3
 $$
+
 Partiamo da:
 
 
