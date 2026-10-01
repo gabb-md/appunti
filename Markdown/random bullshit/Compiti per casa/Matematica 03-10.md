@@ -210,7 +210,7 @@ $$
 y=\sin x
 $$
 
-Per applicare la seconda trasformazione basta riflettere tutti i punti $(x\\_{0},f(x\\_{0}))$ per cui $f(x\\_{0})<0$ sull'asse $x$, così otteniamo:
+Per applicare la seconda trasformazione basta riflettere tutti i punti $(x\_{0},f(x\_{0}))$ per cui $f(x\_{0})<0$ sull'asse $x$, così otteniamo:
 
 
 $$
