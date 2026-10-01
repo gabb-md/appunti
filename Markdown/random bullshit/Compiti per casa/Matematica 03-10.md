@@ -56,7 +56,7 @@ $$
 
 
 $$
-y=\ln (x+3)+1
+y=\ln (x+3)-1
 $$
 
 Simmetria rispetto all'asse $x$:
@@ -70,7 +70,7 @@ $$
 
 
 $$
-y=-\ln(x+3)-1
+y=-\ln(x+3)+1
 $$
 
 
