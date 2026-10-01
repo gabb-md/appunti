@@ -187,6 +187,7 @@ Si sa che $\cos x$ è una funzione pari, quindi la trasformazione:
 $$
 y=\cos |x|
 $$
+
 non ne cambia il grafico.
 
 Trasliamo secondo il vettore $\vec{v}(0,3)$:
