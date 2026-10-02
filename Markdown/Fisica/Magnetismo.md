@@ -105,7 +105,31 @@ $$
 Dove $p$ è passo dell'elica, cioè la distanza tra due punti giunti da un'ortogonale sull'avvolgimento immediatamente successivo.
 
 
+## Forza magnetica su un filo percorso da corrente
 
+Se in un filo rettilineo di lunghezza $L$ fluisce una corrente $I$ e questo è immerso in un campo magnetico $\vec{B}$ possiamo calcolare la forza che il campo esercita sul filo:
+
+
+$$
+F= \Delta q v B \sin \theta
+$$
+
+
+$$
+F= \frac{\Delta q}{ \Delta t} v \Delta t B \sin \theta
+$$
+
+
+$$
+F= I L B \sin \theta
+$$
+
+Possiamo pensare di definire un vettore $\vec{L}$ che è orientato come il filo e il cui verso è quello di percorrenza della corrente e di modulo la lunghezza $L$ del filo, allora si può descrivere la forza di Lorentz come un altro prodotto vettoriale:
+
+
+$$
+\vec{F}= I \vec{L} \times \vec{B}
+$$
 
 
 
