@@ -40,3 +40,40 @@ Nessun fenomeno può essere compreso isolatamente, la verità risiede nel proces
 La storia è il cammino razionale attraverso cui lo Spirito prende coscienza della libertà.
 
 Nacquero la Destra e Sinistra hegeliana alla morte del filosofo.
+
+Le categorie non hanno più un valore oggettivo (come per Aristotele) e nemmeno soggettivo (come per Kant), ma entrambi. Hegel di occupa delle categorie nell'opera **La Scienza della Logica**. Analizza la categoria dell'essere, che non è qualcosa di preciso, è un essere che si contrappone al non essere da cui scaturisce il divenire. L'essere assume una determinazione quando ha acquisito una qualità e si distingue dagli altri esseri che ne hanno altre. Si passa dalla categoria dell'essere alla categoria dell'essenza quando ha una connotazione che acquisisce grazie alla sintesi di qualità e quantità. L'essenza porterà una nuova triade: **essere, essenza, concetto**. 
+
+## Enciclopedia delle scienze in compendio
+
+L'opera è divisa in:
+
+- **logica**,
+- **filosofia della natura**,
+- **filosofia dello spirito**.
+
+
+---
+
+bho idek atp random bullshit go!
+
+- **Meccanica**,
+- **Fisica**,
+- **Fisica organica**.
+
+---
+### Filosofia dello Spirito
+
+Hegel tratta: **autocoscienza individuale (spirito soggettivo), autocoscienza sociale (spirito oggettivo), autocoscienza dell'assoluto (spirito assoluto)**. Ciascuna consta di tre momenti:
+
+- **autocoscienza individuale**
+- **autocoscienza dell'assoluto**:
+	 - Diritto
+	 - Moralità
+	 - Eticità:
+	     - Famiglia
+	     - Società civile
+	     - Stato
+- **autocoscienza assoluto**:
+     - Arte
+     - Religione
+     - Filosofia
