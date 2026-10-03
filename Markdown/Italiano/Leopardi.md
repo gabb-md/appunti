@@ -29,3 +29,29 @@ Nelle pagine dello ***Zibaldone di pensieri***, le riflessioni leopardiane non f
 ## Rapporto con il Romanticismo e classicismo
 
 Il pensiero leopardiano è stato definito come ***classicismo romantico***. Leopardi ha avuto una formazione classica, per cui ovviamente si schierò dalla parte dei classicisti el 1816, ma ha una visione molto innovativa: non tollera il classicismo accademico, l'abuso della mitologia e le rigidissime regole. Il suo è un classicismo romantico perché trasferisce nel Romanticismo la parte più autentica del classicismo. Il Sehnsuct, il titanismo, l'amore per il vago e l'indefinito sono elementi che Leopardi condivide con il Romanticismo europeo, ma anche con il classicismo più autentico. C'è un elemento che lo allontana dal Romanticismo europeo: la formazione filosofica. Il pensiero leopardiano si poggia sul materialismo piuttosto che l'idealismo.
+
+# I Canti
+
+I testi poetici di Leopardi ci sono pervenuti attraverso una raccolta chiamata **Canti**, che non presenta una struttura unitaria, ma le opere presenti sono organizzate e raggruppate secondo criteri stilistici e cronologici. ll titolo deriva dall'associazione antica tra poesia e musica, e porta delle innovazioni. Con a canzone ***A Silvia*** innova la canzone petrarchesca non seguendone le rime ferree, sceglie i metri e scopare la strofa di congendo. Edizioni: 1831, 1835, 1845 (postuma). Il numero dei canti aumenta con le edizioni: 23, 39, 41. Dopo il 1816 avviene quella che Leopardi definisce la **coversione**: il passaggio dall'erudizione al bello. Questo periodo è ricco di esperimenti letterari, come canzoni, elegie, ma soprattutto due gruppi di poesie: le canzoni e gli idilli. Le canzoni furono scritte tra il 1818 e il 1823, con un impianto molto classicistico, le prime 5 hanno tematica civile e vengono chiamate **canzoni civili**:
+
+- **All'Italia**
+- **Sopra il monumento di Dante**
+- **Nelle nozze della sorella Paolina**
+- **Ad Angelo Mai**
+- **A un vincitore nel pallone**
+
+Ad Angelo Mai costituisce la sintesi del pensiero leopardiano di quel periodo: la polemica contro la situazione presente dell'Italia, la nostalgia per l'antichità, il motivo dell'immaginazione. Caratteristiche diverse hanno due canzoni che hanno per protagonisti due personaggi dell'antichità:
+
+- **Bruto minore**
+- **L'ultimo canto di Saffo**
+
+Dove fa da protagonista il titanismo. Bruto e Saffo morirono per suicidio, ma due tipi diversi: il primo civile il secondo esistenziale. Leopardi non parla in prima persona ma fa parlare i personaggi, che sono degli eroi, incolpando il fato (in una fase di passaggio dal pessimismo storico al pessimismo cosmico) contro cu l'eroe combatte. Bruto che ha eliminato il tiranno in onore della libertà repubblicana e Saffo che rappresenta la sensibilità di una donna bellissima dentro ma racchiusa in un corpo brutto. Scrisse un inno ai patriarchi e un'ode alla prima vera, ma sono più importanti gli ***Idilli***. L'inventore dell'idillio sembra essere stato Teocrito di Siracusa (il termne deriva dalla parola *bozzetto* in greco), ma Leopardi lo trasforma. Lo definisce nello Zibaldone:
+
+> *espressione di sentimenti del mio animo*
+
+Gli idilli più importanti sono:
+
+- **L'infinito**
+- **Alla luna**
+- **La vita solitaria**
+- **La sera del dì di festa**
