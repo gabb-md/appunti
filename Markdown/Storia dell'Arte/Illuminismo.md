@@ -38,11 +38,24 @@ La differenza tra Boullèe e Piranesi si trova nell'ispirazione. Mentre Boullèe
 
 # Le regole degli artisti neoclassici di Winckelmann
 
-La prima regola è quella di appoggiarsi all'arte greca e romana. L'arte ha sempre avuto un fine, in Grecia questo è l'espressione estetica di bellezza assoluta presente in natura, che rende l'arte *mimesis naturalis*. Wincklemann riprende questo concetto e definisce il fine dell'arte neoclassica come quello della *bellezza ideale*, una bellezza perfetta, che esiste in natura ma non concentrata in un unico punto. Ad esempio, non esiste l'uomo perfetto, ma esistono i canoni di bellezza perfetta, che l'artista deve assemblare in un soggetto unico. I mezzi per raggiungere il bello ideale sono due:
+La prima regola è quella di appoggiarsi all'arte greca e romana. L'arte ha sempre avuto un fine, in Grecia questo è l'espressione estetica di bellezza assoluta presente in natura, che rende l'arte *mimesis naturalis*. Winckelmann riprende questo concetto e definisce il fine dell'arte neoclassica come quello della *bellezza ideale*, una bellezza perfetta, che esiste in natura ma non concentrata in un unico punto. Ad esempio, non esiste l'uomo perfetto, ma esistono i canoni di bellezza perfetta, che l'artista deve assemblare in un soggetto unico. I mezzi per raggiungere il bello ideale sono due:
 
 - **nobile semplicità**: forme semplici, lineari, non intricate;
 
 - **quiete grandezza**: la rappresentazione del bello deve avvenire sempre attraverso la quiete dell'animo, i sentimenti non devono deturpare le caratteristiche perfette. La rappresentazione deve raffigurare l'istante prima o quello dopo l'impeto dell'azione.
+
+Winckelmann scrisse un trattato su questi temi, dove sosteneva che l'unica **arte** da cui si potesse trarre ispirazione fosse **solo quella greca**. Per essere un perfetto artista bisognava ***imitare*** i grandi artisti greci (prendere spunto). Per fare la perfetta scultura bisogna ispirarsi a **due statue** di riferimento:
+
+- **Antinoo** del Belvedere
+
+- **Apollo** del Belvedere
+
+studiandole nel dettaglio e riproporre in chiave contemporanea la classicità (età periclea) greca. Per la pittura invece bisognava ispirarsi ai grandi del rinascimento (che a loro volta avevano studiato la cultura greca). L'architettura è da imitare nelle logiche della templistica greca. 
+
+Le regole ferree di Winckelmann erano innegoziabili per un artista neoclassico che potesse definirsi tale. Il vero punto debole della teoria di Winckelmann è quello di considerare l'arte greca **fino all'età classica**, escludendo tutto ciò che è venuto dopo (cioè l'età ellenistica), perché non lo conosceva. L'archeologia come scienza esatta non esisteva e ancora non si conosceva il mondo ellenistico (anche se Winckelmann viene definito un archeologo). Anche se venivano ritrovati reperti storici di quelle età, non si riconoscevano come appartenenti a quelle culture perché erano molto differenti. Questo è il grande limite della cultura di Winckelmann.
+
+
+> **limite del neoclassicismo**: *freddezza, mancanza di originalità*
 
 
 
