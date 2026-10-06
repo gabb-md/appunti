@@ -30,7 +30,7 @@ Nel caso della biblioteca vuole creare una volta a botte cassettonata, un lucern
 
 Il museo delle statue classiche doveva avere le colonne in stile corinzio, una cupola gigantesca e una pianta a fiore. 
 
-Il progetto del cenotafio di Newton consiste in un'enorme sfera conficcata nel terreno e retta da dei piatti circolari circondati da cipressi. Esiste una sola entrata al monumento, quella frontale, e l'interno è completamente vuoto. La sfera simboleggia la Terra. Il globo è senza aperture all'interno assolutamente nero, la superficie è bucherellata come tutte le costellazioni conosciute, in modo che durante il giorno la luce penetri nei fori dando l'illusione del cielo stellato. Di notte una sfera armillare (in modo da non ostruire la visione del cielo nel momento del giorno) con un globo luminoso che di notte si accende simboleggiando il sole.
+Il progetto del cenotafio di Newton consiste in un'enorme sfera conficcata nel terreno e retta da dei piatti circolari circondati da cipressi. Esiste una sola entrata al monumento, quella frontale, e l'interno è completamente vuoto. La sfera simboleggia la Terra. Il globo è senza aperture all'interno assolutamente nero, la superficie è bucherellata come tutte le costellazioni conosciute, in modo che durante il giorno la luce penetri nei fori dando l'illusione del cielo stellato. Di notte una sfera armillare (in modo da non ostruire la visione del cielo nel momento del giorno) con un globo luminoso, si accende simboleggiando il sole.
 
 # Giovan Battista Piranesi
 
