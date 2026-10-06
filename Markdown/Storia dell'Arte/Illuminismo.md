@@ -24,7 +24,7 @@ Fu un architetto visionario, uomo del suo tempo. Produsse una serie di progetti 
 
 - **museo della statuaria classica**;
 
-- **il cenotafio di Newton**, un monumento funebre celebrativo in onore del fisico (il mausoleo contiene la salma del defunto, il cenotafio no), per celebrare il più grande genio della rivoluzione scientifica
+- **il cenotafio di Newton**, un monumento funebre celebrativo in onore del fisico (il mausoleo contiene la salma del defunto, il cenotafio no), per celebrare il più grande genio della rivoluzione scientifica.
 
 Nel caso della biblioteca vuole creare una volta a botte cassettonata, un lucernario, corridoi con un colonnato finale per ritornare all'idea dei peripatetici (in particolare Socrate). Il colonnato doveva poggiare anche sugli scaffali (simbolicamente indica il potere del sostegno della cultura).
 

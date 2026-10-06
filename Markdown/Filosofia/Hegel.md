@@ -66,7 +66,7 @@ bho idek atp random bullshit go!
 Hegel tratta: **autocoscienza individuale (spirito soggettivo), autocoscienza sociale (spirito oggettivo), autocoscienza dell'assoluto (spirito assoluto)**. Ciascuna consta di tre momenti:
 
 - **autocoscienza individuale**
-- **autocoscienza dell'assoluto**:
+- **autocoscienza sociale**:
 	 - Diritto
 	 - Moralità
 	 - Eticità:
