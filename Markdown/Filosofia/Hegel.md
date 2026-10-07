@@ -1,3 +1,5 @@
+<h1 style="text-align:center;"> i GUESS bro </h1>
+
 # Hegel
 
 La filosofia di Hegel è caratterizzata da dialettica, logica e spirito. Si può dividere la filosofia hegeliana in tre parti:
@@ -51,21 +53,21 @@ L'opera è divisa in:
 - **filosofia della natura**,
 - **filosofia dello spirito**.
 
+Filosofia della natura:
 
----
-
-bho idek atp random bullshit go!
-
-- **Meccanica**,
-- **Fisica**,
-- **Fisica organica**.
+- **Meccanica**, in cui studia la materia *bruta*, informe che non è governata dalle leggi;
+- **Fisica**, in cui studia le leggi che caratterizzano la materia;
+- **Fisica organica**, in cui studia la materia vivente e le sue leggi.
 
 ---
 ### Filosofia dello Spirito
 
 Hegel tratta: **autocoscienza individuale (spirito soggettivo), autocoscienza sociale (spirito oggettivo), autocoscienza dell'assoluto (spirito assoluto)**. Ciascuna consta di tre momenti:
 
-- **autocoscienza individuale**
+- **autocoscienza individuale**:
+     - Antropologia
+     - Fenomenologia
+     - Psicologia
 - **autocoscienza sociale**:
 	 - Diritto
 	 - Moralità
@@ -75,5 +77,12 @@ Hegel tratta: **autocoscienza individuale (spirito soggettivo), autocoscienza so
 	     - Stato
 - **autocoscienza assoluto**:
      - Arte
-     - Religione
-     - Filosofia
+     - Religione (attraverso cui l'assoluto si coglie come prodotto dell'immaginazione)
+     - Filosofia (attraverso cui l'assoluto si coglie tramite il concetto)
+
+Hegel non distingue la logica dalla metafisica e ritiene che vi sia un pensiero astratto che assume concretezza nel momento in cui si fa essere (la sintesi). A differenza di Kant, Hegel distingue moralità dall'eticità, perché considera l'eticità la sintesi della moralità che è l'antitesi del diritto. Lo Stato (che incarna lo spirito del popolo) scaturisce dalla sintesi tra la famiglia (la sintesi tra due individui) e la società civile. Hegel era un reazionario e un nazionalista, e come Fichte voleva che la Germania fosse la nazione superiore. Come la nottola di Minerva, la filosofia interviene quando il processo è già concluso e porta all'assoluto.
+
+### L'astuzia della ragione
+
+Abitualmente si pensa che gli eroi della storia siano diventati tali grazie alle loro ambizioni, intelligenza, capacità, ma secondo Hegel (ad esempio) nella storia la Francia doveva raggiungere alcuni livelli allora si è servita di uomini come Napoleone per realizzare i suoi fini. Una ragione assoluta si serve degli uomini e li considera come dei mezzi per realizzare i suoi scopi. Gli uomini non fanno le cose per la propria volontà, ma perché qualcuno o qualcosa dall'alto li porta a compiere quelle azioni. Secondo Hegel si tratta della ragione, che per riuscire nei suoi scopi si serve di uomini straordinari per realizzarli. Nell'uomo resta la consapevolezza che non si può cambiare il corso della storia e che tutto ciò che accade deve necessariamente accadere, perché chi non si adatta è destinato a perire.
+<h1 style="text-align:center;"> UFFA </h1>
