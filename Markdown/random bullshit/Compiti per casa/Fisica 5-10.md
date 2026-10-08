@@ -1,3 +1,8 @@
+---
+header-includes:
+  - \usepackage{gensymb}
+---
+
 # Pagina 316
 
 $\Huge{\mathbf{Esercizio\ } 45.}$

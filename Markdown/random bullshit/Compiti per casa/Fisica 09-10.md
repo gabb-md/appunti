@@ -1,3 +1,8 @@
+---
+header-includes:
+  - \usepackage{gensymb}
+---
+
 # Pagina 318
 
 $\Huge{\mathbf{Esercizio\ }62.}$
