@@ -133,5 +133,42 @@ Geometricamente si nota una simmetria rispetto all'origine degli assi cartesiani
 
 > ***NOTA:*** *Ovviamente, la maggior parte delle funzioni reali di variabile reale non è né pari né dispari.*
 
+$\mathbf{Definizione.}$
+
+Si dice che una funzione $f:A \to B$ è *invertibile* se e solo se è contemporaneamente iniettiva e suriettiva. Cioè ad ogni elemento di $A$ corrisponde uno e un solo elemento di $B$ e ad ogni elemento di $B$ corrisponde uno e un solo elemeto di $A$. Si dice che $f$ è *invertibile*.
+
+A questo punto si può defiire $f^{-1}: B \to A$, cioè la funzione che fa corrispondere ad ogni $y \in B$ quell'unico $x \in A$ tale che $f(x)=y$. $f^{-1}$ si chiama *funzione inversa* di $f$.
+
+A titolo d'esempio, presentiamo:
 
 
+$$
+y=f(x)= \frac{1}{1+e^{x}}
+$$
+
+
+$$
+1+e^{x}=\frac{1}{y} \implies x=\ln\left( \frac{1}{y}-1 \right)
+$$
+
+Abbiamo trovato la relazione che associa ad ogni $y \in B$ quell'$x \in A$ tale che $f(x)=y$, allora $f^{-1}(x)$ è la funzione:
+
+
+$$
+f^{-1}(x) = \ln\left( \frac{1}{x}-1 \right)
+$$
+
+Ovviamente, $f$ e $f^{-1}$ hanno una il dominio uguale all'insieme immagine dell'altra e viceversa.
+
+$\mathbf{Definizione.}$
+
+Siano $f: A  \to B$ e $g: B \to C$ due funzioni. Si definisce la funzione $g \circ f$ la funzione che a un elemento $x \in A$ fa corrispondere $y=g(f(x)) \in C$. Chiaramente, il dominio di $g \circ f$ è $A \cap B$, quindi si può applicare la *funzione composta* solo agli elementi di $A$ che appartengono all'intersezione dei due domini.
+
+In generale, non è vero che:
+
+
+$$
+g \circ f = f \circ g
+$$
+
+Cioè che la composizione delle funzioni non gode della commutatività.

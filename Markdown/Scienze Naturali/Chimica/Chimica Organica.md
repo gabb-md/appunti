@@ -25,3 +25,23 @@ Si può scrivere un composto in diverse formule:
 - **razionale**
 - **condensata**
 - **topologica**
+
+Il **numero di ossidazione** del carbonio assume valori da $-4$  a $+4$ permette al carbonio di fare molti composti.
+
+>**Numero di ossidazione:** *il numero di ossidazione è una carica formale che indica quanti elettroni ha acquisito o ceduto in un legame (la carica non è reale perché gli elettroni sono condivisi ma si fa questa distinzione sulla base dell'elettronegatività)*.
+
+
+Gli atomi di carbonio si distinguono in ***primari, secondari e terziari*** in base al numero di altri carboni con cui si lega.
+
+# Isomeria
+
+> *Gli isomeri sono composti con la stessa formula molecolare ma diversa struttura*.
+
+L'isomeria si può dividere in due gruppi:
+
+- **isomeria di struttura**
+- **stereoisomeria**
+
+Un esempio di isomeria di struttura è il caos del **butano** e del **2-metilpropano**, in particolare è un **isomero di catena**.
+
+
