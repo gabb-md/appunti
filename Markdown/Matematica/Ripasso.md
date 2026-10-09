@@ -12,7 +12,7 @@ Im(f) \subseteq B
 $$
 
 $$
-y \in Im(f) \iff x \in A |f(x) =y
+y \in Im(f) \iff \exists x \in A |f(x) =y
 $$
 
 Si dice *grafico* di $f$ l'insieme $G \subset \mathbb{R}^2$ di punti del piano cartesiano tali che:
