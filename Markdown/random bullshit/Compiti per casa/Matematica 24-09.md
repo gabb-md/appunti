@@ -145,7 +145,7 @@ In definitiva, il dominio è:
 
 
 $$
-D = \left \{  x \in \mathbb{R} | x \neq \frac{\pi}{6}+2\pi k \land x \neq \frac{5}{6}\pi+2\pi k \land x \neq \frac{\pi}{2}+ \pi k  \right \},\ k \in \mathbb{Z}
+D = \{  x \in \mathbb{R} | x \neq \frac{\pi}{6}+2\pi k \land x \neq \frac{5}{6}\pi+2\pi k \land x \neq \frac{\pi}{2}+ \pi k  \},\ k \in \mathbb{Z}
 $$
 
 $\Huge{\mathbf{Esercizio\ } 142.}$
