@@ -151,7 +151,7 @@ $$
 1+e^{x}=\frac{1}{y} \implies x=\ln\left( \frac{1}{y}-1 \right)
 $$
 
-Abbiamo trovato la relazione che associa ad ogni $y \in B$ quell'$x \in A$ tale che $f(x)=y$, allora $f^{-1}(x)$ è la funzione:
+Abbiamo trovato la relazione che associa ad ogni $y \in B$ quell'unico $x \in A$ tale che $f(x)=y$, allora $f^{-1}(x)$ è la funzione:
 
 
 $$
