@@ -88,7 +88,7 @@ $$
 f= \frac{1}{T}= \frac{qB}{2\pi m}
 $$
 
-Se l'angolo tra $\vec{B}$ e $\vec{v}$ è diverso da $\frac{\pi}{2}$, la particella si muove in una traiettoria elicoidale. Possiamo scomporre il vettore velocità in un vettore parallelo $\vec{v}_{\parallel}$ al campo magnetico $\vec{B}$ e uno perpendicolare $\vec{v}_{\perp}$ allo stesso campo. Allora la componente parallela non genera la forza di Lorentz, che invece per la componente perpendicolare è massima, quindi possiamo considerare il moto circolare indotto da questa forza di Lorentz:
+Se l'angolo tra $\vec{B}$ e $\vec{v}$ è diverso da $\frac{\pi}{2}$, la particella si muove in una traiettoria elicoidale. Possiamo scomporre il vettore velocità in un vettore parallelo $\vec{v}_{\parallel}$ al campo magnetico $\vec{B}$ e uno perpendicolare $\vec{v}__{\perp}$ allo stesso campo. Allora la componente parallela non genera la forza di Lorentz, che invece per la componente perpendicolare è massima, quindi possiamo considerare il moto circolare indotto da questa forza di Lorentz:
 
 
 $$
