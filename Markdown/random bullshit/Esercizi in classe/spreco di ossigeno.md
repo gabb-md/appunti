@@ -342,7 +342,7 @@ Poniamo anche $x\geq 0$:
 
 $$
 \begin{cases}
- -2 \leq x \leq 2 \\\\ x^{2}> 4-x^{2} \\\\ x > 0
+ -2 \leq x \leq 2 \\\\ x^{2}> 4-x^{2} \\\\ x \geq 0
 \end{cases}
 $$
 
