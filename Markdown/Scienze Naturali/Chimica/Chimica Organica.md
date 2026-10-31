@@ -39,9 +39,20 @@ Gli atomi di carbonio si distinguono in ***primari, secondari e terziari*** in b
 
 L'isomeria si può dividere in due gruppi:
 
-- **isomeria di struttura**
+- **isomeria di struttura**:
+    - **posizione**
+    - **di catena**
+    - **di gruppo funzionale**
 - **stereoisomeria**
 
-Un esempio di isomeria di struttura è il caos del **butano** e del **2-metilpropano**, in particolare è un **isomero di catena**.
+Un esempio di isomeria di struttura è il caos del **butano** e del **2-metilpropano**, in particolare è un **isomero di catena** (sottocategoria degli isomeri di struttura).
+
+L'**isomeria di posizione** è un tipo di isomeria di struttura che si verifica quando due isomeri differiscono nella posizione di un legame multiplo, nella posizione di un eteroatomo o di un gruppo funzionale.
+
+L'isomeria **di gruppo funzionale** si verifica quando due molecole hanno la stessa formula molecolare ma diversi gruppi funzionali. Un esempio è quello dell'**etanolo** e del **dimetiletere**.
+
+
+
+
 
 
