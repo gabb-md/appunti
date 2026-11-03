@@ -3,6 +3,7 @@ header-includes:
   - \usepackage{gensymb}
 ---
 
+
 # Pagina 320
 
 $\Huge{\mathbf{Esercizio\ }74.}$

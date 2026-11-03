@@ -546,7 +546,7 @@ Per essere il minimo di $E$, deve almeno accadere che $0 \in E$, ma ciò non è 
 
 
 $$
-\frac{1}{n^{2}}= 0 \implies 1= 0
+\frac{1}{n^{2}}= 0 \iff 1= 0
 $$
 
 Assurdo, perciò $0$ non appartiene ad $E$, men che meno ne è il minimo.
@@ -688,7 +688,7 @@ Resta da dimostrare se $0$ sia un minimo o meno. Per farlo conviene anzitutto ac
 
 
 $$
-\frac{2}{1+n}= 0 \implies 2=0
+\frac{2}{1+n}= 0 \iff 2=0
 $$
 
 Falso, allora $0 \not\in A$, quindi non è un minimo.
@@ -718,10 +718,10 @@ $$
 
 
 $$
-\frac{n+3}{4n}\leq 1 \implies  \frac{n+3-4n}{4n} \leq 0 \implies \frac{n-1}{4n } \geq 0
+\frac{n+3}{4n}\leq 1 \iff  \frac{n+3-4n}{4n} \leq 0 \iff \frac{n-1}{4n } \geq 0
 $$
 
-Banalmente vero, perché $n\geq 1 \implies 3n-1\geq 2>0$ e $4n>0$, quindi sia il numeratore che il denominatore della frazione sono positivi, perciò la frazione è positiva.
+Banalmente vero, perché $n\geq 1 \implies n-1\geq 2>0$ e $4n>0$, quindi sia il numeratore che il denominatore della frazione sono positivi, perciò la frazione è positiva.
 
 Dimostriamo ora che $H$ è l'estremo superiore:
 
@@ -794,7 +794,7 @@ Provare la stessa cosa con $L=\frac{1}{4}$ ci porta a:
 
 
 $$
-\frac{n+3}{4n}=\frac{1}{4} \implies 0=3
+\frac{n+3}{4n}=\frac{1}{4} \iff 0=3
 $$
 
 Falso, quindi $L$ non è il massimo di $A$ (perché non appartiene ad $A$).
