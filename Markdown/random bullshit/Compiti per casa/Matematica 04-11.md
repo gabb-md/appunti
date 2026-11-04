@@ -61,7 +61,11 @@ $\Huge{\mathbf{Esercizio\ }73.}$
 
 $\mathbf{a.}$
 
-**Vero**, perché il contrapposito è falso. Se $A \neq \emptyset$ non fosse infinito, ma composto da $N \in \mathbb{N}$ elementi, si potrebbe ordinare, perciò si dica $x_{n}$ l'$n$-esimo elemento più piccolo di $A$, si scelga allora:
+**Vero**, perché il contrapposito è vero.
+
+Dimostriamo questa affermazione prima nel caso in cui $x_{0} \in A$.
+
+Se $A \neq \emptyset$ non fosse infinito, ma composto da $N \in \mathbb{N}$ elementi, si potrebbe ordinare, perciò si dica $x_{n}$ l'$n$-esimo elemento più piccolo di $A$, si scelga allora:
 
 $$
 \delta=\frac{\min(x_{n}-x_{n-1},x_{n+1}-x_{n})}{2}
@@ -83,7 +87,39 @@ $$
 
 Se $X$ appartenesse ad $A$, per l'ordinamento che si è adoperato, dovrebbe al più essere che $X=x_{n-1}\ \lor\ X=x_{n+1}$, ma $X>x_{n-1}\ \lor\ X<x_{n+1}$, il che è una contraddizione, perciò non può essere che $X \in A$. Così si è visto che $x_{n}$ è un punto isolato.
 
-> **NOTA:** nel caso in cui $n=1$, basta scegliere $X=\frac{x_{1}+x_{2}}{2}$, e fare lo stesso ragionamento. Analogamente, se $n=N$, basta scegliere $X=\frac{x_{N}+x_{N-1}}{2}$. Per i pedanti, se $N=1$, basta scegliere un qualsiasi $X \in \mathbb{R}, X \neq X_{N}$.
+> **NOTA:** nel caso in cui $n=1$, basta scegliere $\delta=\frac{x_{2}-x_{1}}{2}$, e fare lo stesso ragionamento. Analogamente, se $n=N$, basta scegliere $\delta=\frac{x_{N}-x_{N-1}}{2}$. Per i pedanti, se $N=1$, basta scegliere un qualsiasi $\delta >0$.
+
+Nell'ipotesi in cui $x_{0} \not\in A$ invece dobbiamo operare diversamente.
+
+Possiamo vedere subito che $x_{0}$ non può essere punto di accumulazione di $A$ se $x_{0} < m=\min A$ o $x_{0} > M=\max A$, perché basterebbe scegliere in questi casi rispettivamente:
+
+$$
+\delta= \frac{m-x_{0}}{2};\qquad \delta=\frac{x_{0}-M}{2};
+$$
+
+E considerare $I_{\delta}(x_{0})$, nessun $X \in A$ può appartenere al primo perché ciò implicherebbe che $X<\min A$, allo stesso modo nessun $X \in A$ può appartenere al secondo perché ciò implicherebbe che $X> \max A$ (assurdo in entrambi i casi).
+
+Consideriamo ora il caso in cui $m<x_{0}<M$.
+
+Prendiamo il più grande $X \in A$ tale che $X<x_{0}$ e il più piccolo $Y \in A$ tale che $Y>x_{0}$, se prendiamo:
+
+$$
+\delta=\frac{\min(x_{0}-X, Y-x_{0})}{2}
+$$
+Non troveremo alcun elemento in $I_{\delta}(x_{0})$, perché sarebbe contraddittorio ammettere l'esistenza di $(X',Y') \in A$ tali che:
+
+
+$$
+X<X'<x_{0},\ Y>Y'>x_{0}
+$$
+Così abbiamo concluso che:
+
+$$
+I_{\delta}(x_{0}) \cap A= \emptyset. 
+$$
+
+Abbiamo terminato la dimostrazione.
+
 
 $\mathbf{Q.E.D.} \qquad\blacksquare$
 
