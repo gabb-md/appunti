@@ -49,7 +49,7 @@ $$
 I^*(x_{n})=\ ]x_{n}-\delta;x_{n}+\delta[;\qquad \delta=\frac{\delta_{2}+\delta_{1}}{4}
 $$
 
-Avendo appurato che non esistono $m,m'$ nell'intorno $I(x_{n})$, ed essendo $I^*(x_{n})$ un suo sottinsieme (dal momento che $\delta<\delta_{2}<\delta_{1}$), possiamo concludere che non esistano $m$ o $m'$ $\in \mathbb{N}$ che appartengono a $I^*(x_{n})$.
+Avendo appurato che non esistono $x_m,x_{m'}$ nell'intorno $I(x_{n})$, ed essendo $I^*(x_{n})$ un suo sottinsieme (dal momento che $\delta<\delta_{2}<\delta_{1}$), possiamo concludere che non esistano $m$ o $m'$ $\in \mathbb{N}$ tali che $x_{m}$ o $x_{m'}$ appartengano a $I^*(x_{n})$.
 
 Abbiamo concluso.
 
