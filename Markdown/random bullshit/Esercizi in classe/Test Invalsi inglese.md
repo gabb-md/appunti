@@ -18,28 +18,10 @@
 
 ---
 
-**C.E. sul logaritmo**
-$$
-x-\sqrt{ 4-x^{2} }> 0
-$$
-
-$$
-\sqrt{ 4-x^{2} }< x, x\geq0
-$$
-
-$$
-54-x^{2}< x^{2} \implies x^{2}> 2 \implies x< -\sqrt{ 2 } \lor x> \sqrt{ 2 }, x\geq0
-$$
-
-$$
-\begin{cases}
--2 \leq x \leq 2 \\ x \geq 0 \\ x< -\sqrt{ 2 } \lor x> \sqrt{ 2 }
-\end{cases}
-$$
-
-
-$$
-\sqrt{ 2 }< x \leq 2
-$$
-
-
+1. C
+2. C
+3. A
+4. B
+5. D
+6. A C
+7. B D
