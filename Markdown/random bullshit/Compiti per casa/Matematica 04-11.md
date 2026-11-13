@@ -147,14 +147,13 @@ $\mathbf{c.}$
 
 $\mathbf{d.}$
 
-**Falso**, perché per la definizione di punto di accumulazione:
+**Vero**, perché per la definizione di punto di accumulazione:
 
 
 $$
 \forall\ I_{\delta}(x_{0}), \exists X \in (A \cap I_{\delta}(x_{0})): X\neq x_{0}.
 $$
 
-Non basta quindi che l'intorno contenga $X \in A$, ma deve anche essere $X\neq x_{0}$.
 
 ---
 
