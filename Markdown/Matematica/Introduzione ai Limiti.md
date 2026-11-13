@@ -134,3 +134,19 @@ $$
 
 Cioè, se per ogni intorno di $x_{0}$ esiste almeno un $X \in A \cap I_{\delta}(x_{0})$ diverso da $x_{0}$.
 
+---
+
+$\mathbf{Definizione.}$
+
+Si abbia $f: D \to \mathbb{R}$ e $x_{0}$ punto di accumulazione di $D$, si dice che $L$ è il *limite della funzione per $x$ che tende a $x_{0}$* se e solo se:
+
+$$
+\forall \varepsilon > 0, \exists \delta >0(|x-x_{0}| < \delta\implies |f(x)-L|<\varepsilon), x \neq x_0
+$$
+
+E si scrive:
+
+$$
+L= \lim_{ x \to x_{0} } f(x)
+$$
+
