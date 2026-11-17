@@ -2,8 +2,7 @@
 $\Huge{\mathbf{Grafici.}}$
 
 
-![grafici](/Immagini/disegni.jpg)
-
+Vedi l'altro allegato.
 
 
 I disegni del $\mathbf{4.}$ e del $\mathbf{5.}$ sono cortesia del libro.
@@ -49,6 +48,8 @@ Quindi:
 $$
 x \approx 1.9 \text{cm}
 $$
+
+---
 
 
 $\Huge{\mathbf{Esercizio\ 3.}}$
@@ -125,6 +126,8 @@ $$
 V=16 \text{kV}
 $$
 
+---
+
 $\Huge{\mathbf{Esercizio\ 4.}}$
 
 Dalla seconda legge di Ohm:
@@ -160,6 +163,8 @@ Quindi:
 $$
 \frac{\ell_{2}}{\ell_{1}}= \frac{\frac{3}{4} \pi R^{2}}{R^{2}(\pi-2)}= \frac{3}{4} \cdot \frac{\pi}{\pi-2} \approx 2.1 
 $$
+
+---
 
 $\Huge{\mathbf{Esercizio\ 5.}}$
 
