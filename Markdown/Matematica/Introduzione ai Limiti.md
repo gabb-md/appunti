@@ -149,4 +149,246 @@ E si scrive:
 $$
 L= \lim_{ x \to x_{0} } f(x)
 $$
+$\mathbf{Definizione.}$
+
+Una fuzione $f: D \to \mathbb{R}$ si dice *continua in* $x_{0} \in D$ se accade che:
+
+$$
+\lim_{ x \to x_{0} } f(x)=f(x_{0})
+$$
+
+Cioè quando esiste il limite della funzione in $x_{0}$ e il limite è uguale al valore assunto dalla funzione in $x_{0}$. Quando la funzione gode di questa proprietà in ogni punto del suo dominio si dice che è ***continua nel suo dominio***.
+
+$\mathbf{Dimostrazione.}$
+
+Una funzione $f$ costante in $]a,b[$ è continua in ogni $x_{0} \in ]a,b[$.
+
+Si abbia $f(x)=k, k \in \mathbb{R}, \forall x \in ]a,b[$.
+
+Preso $x_{0} \in ]a,b[$, abbiamo che:
+
+$$
+f(x_{0})=k
+$$
+Allo stesso modo:
+
+$$
+|f(x_{0})-k|<\varepsilon, \varepsilon > 0
+$$
+
+$$
+|k-k|< \varepsilon
+$$
+
+$$
+\varepsilon > 0
+$$
+
+Che è vero per ipotesi.
+
+$\mathbf{Dimostrazione.}$
+
+Una funzione polinomiale è continua in tutti i punti del suo dominio.
+
+$\mathbf{Lemma\ 1.}$
+
+Un monomio è una funzione continua nel suo dominio.
+
+Si abbia $f: D \to \mathbb{R}, f(x)=ax^{n}$
+
+Se $a = 0\ \lor\ n=0$, la funzione è costante nel suo dominio, quindi è continua nel suo dominio.
+
+Supponiamo che $a,n \neq 0$.
+
+Si verifica che:
+
+$$
+\lvert f(x)-f(x_{0}) \rvert < \varepsilon
+$$
+
+$$
+|a(x^{n}-x_{0}^{n})| < \varepsilon
+$$
+
+$$
+-\varepsilon< a(x^{n}-x_{0}^{n})< \varepsilon
+$$
+
+$$
+ax_{0}^{n}-\varepsilon< ax^{n}< ax_{0}^{n}+\varepsilon
+$$
+
+$$
+x_{0}^{n} \pm \frac{\varepsilon}{a}< x^{n}< x_{0}^{n} \mp \frac{\varepsilon}{a}
+$$
+
+In base al segno di $a$.
+
+Se $n$ è dispari, si estra semplicemente la radice $n$-esima, quindi:
+
+$$
+\sqrt[n]{x_{0} \pm \frac{\varepsilon}{a}  } < x< \sqrt[n]{x_{0} \mp \frac{\varepsilon}{a}  }
+$$
+
+Che è un intorno di $x_{0}$.
+
+In generale, se $n \in \mathbb{R} \setminus \{ 0 \}$:
+
+$$
+|x|< \frac{\sqrt[n]{x_{0}^{n} \mp \frac{\varepsilon}{a}  }- \sqrt[n]{x_{0} \pm \frac{\varepsilon}{a}  }}{2}
+$$
+
+$\mathbf{Lemma\ 2.}$
+
+Se $f(x)$ e $g(x)$ sono continue in $x_{0}$, anche $h(x)=f(x)+ g(x)$ lo è.
+
+Si abbia che:
+
+$$
+\lvert f(x)-f(x_{0}) \rvert < \varepsilon; \qquad \lvert g(x)-g(x_{0}) \rvert < \varepsilon.
+$$
+
+
+$$
+\lvert f(x)-f(x_{0})\rvert + \lvert g(x)-g(x_{0}) \rvert < 2\varepsilon
+$$
+
+Per la disuguaglianza triangolare, si ha che:
+
+$$
+|f(x)-f(x_{0}) + g(x)-g(x_{0})| \leq \lvert f(x)-f(x_{0})\rvert + \lvert g(x)-g(x_{0}) \rvert< 2\varepsilon
+$$
+
+$$
+\lvert h(x)-h(x_{0}) \rvert <2 \varepsilon
+$$
+
+Così è conclusa la dimostrazione.
+
+Un polinomo è una somma di monomi, che sono funzioni continue, quindi un polinomio è continuo.
+
+$\mathbf{Dimostrazione.}$
+
+Una funzione esponenziale è continua nel suo dominio.
+
+Sia $f(x)=a^{x}$, con $a >0, a \neq 1$.
+
+
+
+$$
+|f(x)-f(x_{0})|<\varepsilon
+$$
+
+$$
+\lvert a^{x}-a^{x_{0}} \rvert < \varepsilon
+$$
+
+$$
+-\varepsilon< a^{x}-a^{x_{0}}<\varepsilon
+$$
+
+$$
+a^{x_{0}}-\varepsilon< a^{x}< a^{x_{0}}+ \varepsilon
+$$
+
+Supponendo $a^{x_{0}}-\varepsilon >0$.
+
+$$
+\log_{a}(a^{x_{0}} \pm \varepsilon)< x< \log_{a}(a^{x_{0}}\mp\varepsilon)
+$$
+
+Nel caso in cui $a \in ]0,1[,$ oppure $a>1$.
+
+$\mathbf{Dimostrazione.}$
+
+Una funzione logaritmica è continua nel suo dominio.
+
+Sia $f(x)=\log_{a}x$, con $a>0, a \neq 1$.
+
+
+$$
+|f(x)-f(x_{0})<\varepsilon
+$$
+
+$$
+\lvert \log_{a}x-\log_{a}x_{0} \rvert < \varepsilon 
+$$
+
+$$
+\left\lvert   \log_{a} \left( \frac{x}{x_{0}} \right)  \right\rvert < \varepsilon
+$$
+
+$$
+-\varepsilon< \log_{a}\left(  \frac{x}{x_{0}} \right)< \varepsilon
+$$
+
+$$
+a^{\pm \varepsilon}< \frac{x}{x_{0}}< a^{\mp \varepsilon}
+$$
+
+$$
+x_{0}a^{\pm \varepsilon}< x<x_{0}a^{\mp\varepsilon}
+$$
+
+
+Si scelga:
+
+$$
+\delta = x_{0}a^{\pm\varepsilon}-x_{0}
+$$
+Si nota che:
+
+$$
+-x_{0}<0 \iff x_{0}a^{\pm\varepsilon}-x_{0}<x_{0}a^{\mp\varepsilon}
+$$
+
+Allora vale che:
+
+$$
+|f(x)-f(x_{0})|< \varepsilon \implies x_{0}-\delta<x< x_{0}+\delta
+$$
+
+Perciò si è trovato che:
+
+$$
+\lim_{ x \to x_{0} } f(x)=f(x_{0})
+$$
+
+$\mathbf{Q.E.D.} \qquad\blacksquare$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
